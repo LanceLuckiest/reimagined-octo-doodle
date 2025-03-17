@@ -3854,3 +3854,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2:
 [17Mar2025 18:55:02.872] [Worker-Main-3/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [17Mar2025 18:55:03.012] [Worker-Main-3/WARN] [ModernFix/]: The namespace buzzier_bees contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [17Mar2025 18:55:03.637] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: LanceLucky moved too quickly! 3.249085574263404,-9.04577499035915,-3.3605046581265015
+[17Mar2025 18:55:35.863] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LanceLucky has made the advancement [Battle Towers?]
+[17Mar2025 18:59:32.614] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: LanceLucky lost connection: Disconnected
+[17Mar2025 18:59:32.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LanceLucky left the game
+[17Mar2025 18:59:38.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[17Mar2025 18:59:38.109] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[17Mar2025 18:59:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Mar2025 18:59:38.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Mar2025 18:59:38.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Mar2025 18:59:38.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Mar2025 18:59:38.600] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Mar2025 18:59:38.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Mar2025 18:59:38.603] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Mar2025 18:59:38.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Mar2025 18:59:38.604] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Mar2025 18:59:38.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[17Mar2025 18:59:38.604] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[17Mar2025 18:59:38.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[17Mar2025 18:59:38.605] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[17Mar2025 18:59:38.681] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Mar2025 18:59:38.736] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Mar2025 18:59:38.751] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Mar2025 18:59:38.751] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[17Mar2025 18:59:38.752] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
