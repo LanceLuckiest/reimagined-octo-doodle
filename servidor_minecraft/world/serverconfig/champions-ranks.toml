@@ -1,0 +1,65 @@
+
+#List of ranks
+[[ranks]]
+	effects = []
+	defaultColor = 16777215
+	chance = 0.5
+	tier = 0
+	growthFactor = 0
+	presetAffixes = []
+	numAffixes = 0
+
+[[ranks]]
+	effects = []
+	defaultColor = 16776960
+	chance = 0.25
+	tier = 1
+	growthFactor = 1
+	presetAffixes = []
+	numAffixes = 1
+
+[[ranks]]
+	effects = []
+	defaultColor = 16750848
+	chance = 0.5
+	tier = 2
+	growthFactor = 4
+	presetAffixes = []
+	numAffixes = 2
+
+[[ranks]]
+	effects = []
+	defaultColor = 6750207
+	chance = 0.5
+	tier = 3
+	growthFactor = 8
+	presetAffixes = []
+	numAffixes = 3
+
+[[ranks]]
+	effects = []
+	defaultColor = 13382655
+	chance = 0.5
+	tier = 4
+	growthFactor = 16
+	presetAffixes = []
+	numAffixes = 4
+
+[[ranks]]
+	effects = []
+	defaultColor = 610000
+	chance = 0.25
+	tier = 5
+	growthFactor = 32
+	presetAffixes = []
+	numAffixes = 5
+
+[[ranks]]
+	effects = ["minecraft:regeneration;4", "minecraft:glowing", "minecraft:resistance;3", "quark:resilience;69"]
+	defaultColor = 16065792
+	chance = 0.0625
+	tier = 6
+	growthFactor = 128
+	presetAffixes = []
+	numAffixes = 16
+

@@ -1,0 +1,132 @@
+
+#Project: Vibrant Journeys settings
+[Settings]
+
+	[Settings."Mob Settings"]
+
+		[Settings."Mob Settings"."Mob Toggles"]
+			"Enable Snails" = true
+			"Enable Fireflies" = true
+			"Enable Slugs" = true
+			"Enable Flies" = true
+			"Enable Starfish" = true
+			"Enable Frogs" = true
+			"Enable Clams" = true
+			"Enable Small Spiders" = true
+
+			[Settings."Mob Settings"."Mob Toggles"."Mob Spawn Weights"]
+				"Clam Spawn Weight" = 10
+				"Slug Spawn Weight" = 25
+				"Frog Spawn Weight" = 30
+				"Starfish Spawn Weight" = 30
+				"Fly Spawn Weight" = 15
+				"Firefly Spawn Weight" = 30
+				"Snail Spawn Weight" = 30
+				"Small Spider Spawn Weight" = 5
+
+		[Settings."Mob Settings"."Misc Mob Settings"]
+			"Mute Flies" = false
+
+		[Settings."Mob Settings"."Vanilla Mob Settings"]
+			#Tropical fish in jungles
+			jungleTropicalFish = true
+			#Bats spawn outside at night
+			nightBats = true
+
+	#World Gen Settings
+	[Settings."World Gen"]
+		#Denser river grass
+		moreGrassInRivers = true
+		fallenTrees = true
+		seaOats = true
+		#Seagrass in lakes
+		moreSeagrass = true
+		barkMushrooms = true
+		glowcap = true
+		netherNettles = true
+		bushes = true
+		shortGrass = true
+		cobwebs = true
+		cattails = true
+		beachGrass = true
+
+		[Settings."World Gen".Groundcover]
+			iceChunks = true
+			#Groundcover Biome Blacklist, example: ["minecraft:plains", "minecraft:beach"]
+			groundcoverBlacklist = ["minecraft:snowy_tundra", "minecraft:snowy_mountains"]
+			rocks = true
+			seashells = true
+			bones = true
+			twigs = true
+			# % chance of groundcover placement
+			#Range: 0 ~ 100
+			groundcoverChance = 100
+			pinecones = true
+			fallenLeaves = true
+			charredBones = true
+
+	#Biome Settings
+	[Settings.Biomes]
+		alpine_heights = false
+		boreal_forest = false
+		windswept_cliffs = false
+		baobab_fields = false
+		desert_shrubland = false
+		flooded_woodlands = false
+		willow_wetlands = false
+		mangrove_marsh = false
+		meadows = false
+		boreal_plateau = false
+		snowy_redwoods = false
+		red_rock_valley = false
+		snowy_boreal_forest = false
+		crimson_thicket = false
+		pine_meadows = false
+		aspen_grove = false
+		prairie = false
+		autumnal_coniferous_forest = false
+		stony_fields = false
+		redwood_peaks = false
+		overgrown_spires = false
+		redwoods = false
+		blossoming_fields = false
+		verdant_sands = false
+		crystal_lakes = false
+
+		#Biome Ambience Settings
+		[Settings.Biomes."Biome Ambience"]
+			windswept_cliffs_particles = true
+
+		#Biome Weights
+		[Settings.Biomes."Biome Weights"]
+			willow_wetlands_weight = 0
+			boreal_forest_weight = 0
+			autumnal_coniferous_forest_weight = 0
+			red_rock_valley_weight = 0
+			snowy_boreal_forest_weight = 0
+			aspen_grove_weight = 0
+			overgrown_spires_weight = 0
+			desert_shrubland_weight = 0
+			flooded_woodlands_weight = 0
+			blossoming_fields_weight = 0
+			redwoods_weight = 0
+			stony_fields_weight = 0
+			snowy_redwoods_weight = 0
+			crystal_lakes_weight = 0
+			crimson_thicket_weight = 0
+			prairie_weight = 0
+			boreal_plateau_weight = 0
+			redwood_peaks_weight = 0
+			alpine_heights_weight = 0
+			mangrove_marsh_weight = 0
+			meadows_weight = 0
+			verdant_sands_weight = 0
+			pine_meadows_weight = 0
+			baobab_fields_weight = 0
+			windswept_cliffs_weight = 0
+
+	#Tree Settings
+	[Settings."Tree Settings"]
+		enablePalmTrees = false
+		enableJuniperTrees = false
+
