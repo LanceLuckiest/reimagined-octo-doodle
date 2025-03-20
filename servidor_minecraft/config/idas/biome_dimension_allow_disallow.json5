@@ -24,7 +24,7 @@
 // You can find dimension identifiers by doing "/execute in" command in game.
 // All of IDAS's structure identifiers can be found by doing "/locate" command in game.
   "disallowedDimensions": {
-    "all": "the_bumblezone:the_bumblezone, twilightforest:twilightforest, undergarden:undergarden, the_midnight:the_midnight, advancedrocketry:space, theabyss:.+, pokecube:secret_base, pokecube_legends:distorted_world, pokecube_legends:ultraspace, dystopia:dystopia, elvenation:elvenia_dimension, futurepack:.+, the_afterlight:.+, lotr:middle_earth,thebeginning:.+",
+    "all": "the_bumblezone:the_bumblezone, twilightforest:twilightforest, minecraft:the_end, minecraft:the_nether, undergarden:undergarden, the_midnight:the_midnight, advancedrocketry:space, theabyss:.+, pokecube:secret_base, pokecube_legends:distorted_world, pokecube_legends:ultraspace, dystopia:dystopia, elvenation:elvenia_dimension, futurepack:.+, the_afterlight:.+, lotr:middle_earth,thebeginning:.+",
     "idas:desert_ancient_statue": "atum:atum"
   },
   //

@@ -46,6 +46,10 @@
     "fd_mushroom_colony": true,
     "forge_energy": true
   },
+  "vampirism": {
+    "show_player_info": true,
+    "show_creature_info": true
+  },
   "waila": {
     "show_registry": false,
     "show_entity_hp": true,

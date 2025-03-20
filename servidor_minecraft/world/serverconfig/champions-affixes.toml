@@ -2,114 +2,114 @@
 #List of affix configurations
 [[affixes]]
 	identifier = "adaptable"
+	enabled = true
+	minTier = 3
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 3
-	enabled = true
 
 [[affixes]]
 	identifier = "arctic"
+	enabled = true
+	minTier = 1
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 1
-	enabled = true
 
 [[affixes]]
 	identifier = "dampening"
+	enabled = true
+	minTier = 1
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 1
-	enabled = true
 
 [[affixes]]
 	identifier = "desecrating"
+	enabled = true
+	minTier = 4
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 4
-	enabled = true
 
 [[affixes]]
 	identifier = "enkindling"
+	enabled = true
+	minTier = 1
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 1
-	enabled = true
 
 [[affixes]]
 	identifier = "hasty"
-	mobList = []
-	maxTier = 5
-	mobPermission = "BLACKLIST"
-	minTier = 2
 	enabled = true
+	minTier = 2
+	maxTier = 5
+	mobList = []
+	mobPermission = "BLACKLIST"
 
 [[affixes]]
 	identifier = "infested"
+	enabled = true
+	minTier = 2
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 2
-	enabled = true
 
 [[affixes]]
 	identifier = "knocking"
+	enabled = true
+	minTier = 1
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 1
-	enabled = true
 
 [[affixes]]
 	identifier = "lively"
+	enabled = true
+	minTier = 1
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 1
-	enabled = true
 
 [[affixes]]
 	identifier = "magnetic"
+	enabled = false
+	minTier = 7
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 7
-	enabled = false
 
 [[affixes]]
 	identifier = "molten"
+	enabled = true
+	minTier = 7
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 7
-	enabled = true
 
 [[affixes]]
 	identifier = "paralyzing"
+	enabled = true
+	minTier = 2
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 2
-	enabled = true
 
 [[affixes]]
 	identifier = "plagued"
+	enabled = true
+	minTier = 7
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 7
-	enabled = true
 
 [[affixes]]
 	identifier = "reflective"
+	enabled = true
+	minTier = 4
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 4
-	enabled = true
 
 [[affixes]]
 	identifier = "shielding"
+	enabled = false
+	minTier = 7
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 7
-	enabled = false
 
 [[affixes]]
 	identifier = "wounding"
+	enabled = true
+	minTier = 1
 	mobList = []
 	mobPermission = "BLACKLIST"
-	minTier = 1
-	enabled = true
 
