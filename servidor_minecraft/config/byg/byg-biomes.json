@@ -535,14 +535,14 @@
     "byg:mojave_desert": {
       "hills": [
         {
-          "weight": 10,
+          "weight": 0,
           "data": "minecraft:desert"
         }
       ],
       "beach": "minecraft:beach",
       "river": "minecraft:river",
       "climate": "HOT",
-      "weight": 3,
+      "weight": 0,
       "dictionary": [
         "DRY",
         "HOT",
@@ -923,22 +923,22 @@
     "byg:snowy_evergreen_taiga": {
       "hills": [
         {
-          "weight": 4,
+          "weight": 0,
           "data": "byg:snowy_evergreen_clearing"
         },
         {
-          "weight": 3,
+          "weight": 0,
           "data": "byg:snowy_evergreen_hills"
         },
         {
-          "weight": 3,
+          "weight": 0,
           "data": "byg:frozen_lake"
         }
       ],
       "beach": "byg:snowy_rocky_black_beach",
       "river": "minecraft:frozen_river",
       "climate": "COLD",
-      "weight": 6,
+      "weight": 0,
       "dictionary": [
         "FOREST",
         "SNOWY",
