@@ -1,0 +1,2349 @@
+[08-03 06:30:21]: [INFO] Created column 'regdate' and set the current timestamp, 1722666621383, to all 0 rows
+[08-03 06:30:21]: [INFO] SQLite Setup finished
+[08-03 06:30:21]: [INFO] Hooked into LuckPerms!
+[08-03 06:30:21]: [INFO] Hooked successfully into Essentials
+[08-03 06:30:21]: [INFO] Hooked successfully into Multiverse-Core
+[08-03 06:30:21]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-03 06:30:21]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-03 06:30:34]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-03 06:30:34]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-03 06:30:34]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-03 06:30:34]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[08-03 06:30:34]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[08-03 06:45:47]: [FINE] Urx1r3l registered 201.141.16.145
+[08-03 06:46:19]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-03 06:46:44]: [INFO] SQLite Setup finished
+[08-03 06:46:44]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-03 06:46:44]: [INFO] Unhooked from Permissions!
+[08-03 06:46:44]: [INFO] Hooked into LuckPerms!
+[08-03 06:48:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-03 06:50:46]: [INFO] SQLite Setup finished
+[08-03 06:50:46]: [INFO] Hooked into LuckPerms!
+[08-03 06:50:46]: [INFO] Hooked successfully into Essentials
+[08-03 06:50:46]: [INFO] Hooked successfully into Multiverse-Core
+[08-03 06:50:46]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-03 06:50:47]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-03 06:50:58]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-03 06:50:58]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[08-03 06:50:58]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[08-03 06:50:58]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+[08-03 06:50:58]: java.io.FileNotFoundException: plugins/AuthMe/GeoLite2-Country.mmdb (No such file or directory)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:179)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:150)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:81)
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[08-03 06:51:50]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-03 18:57:41]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-03 18:57:41]: [INFO] SQLite Setup finished
+[08-03 18:57:41]: [INFO] Unhooked from Permissions!
+[08-03 18:57:41]: [INFO] Hooked into LuckPerms!
+[08-03 19:00:54]: [INFO] §6Deleted 1 user accounts
+[08-03 19:01:08]: [INFO] §6Deleted 1 user accounts
+[08-03 19:13:33]: [FINE] Urx1r3l registered 201.141.16.145
+[08-03 19:13:33]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-03 20:19:29]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-03 20:34:18]: [FINE] QuacksTHO registered 189.217.212.114
+[08-03 20:34:18]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-03 21:32:14]: [FINE] Yorlan registered 186.179.68.23
+[08-03 21:32:15]: [FINE] Yorlan logged in 186.179.68.23
+[08-04 05:09:36]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-04 05:41:58]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 05:54:45]: [INFO] SQLite Setup finished
+[08-04 05:54:45]: [INFO] Hooked into LuckPerms!
+[08-04 05:54:45]: [INFO] Hooked successfully into Essentials
+[08-04 05:54:45]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 05:54:45]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 05:54:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 05:54:52]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[08-04 05:54:53]: [INFO] Successfully downloaded new GEO IP database to plugins/AuthMe/GeoLite2-Country.mmdb
+[08-04 05:54:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 05:57:53]: [FINE] LanceLucky registered 190.237.177.200
+[08-04 05:57:53]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 06:09:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 06:10:51]: [INFO] SQLite Setup finished
+[08-04 06:10:51]: [INFO] Hooked into LuckPerms!
+[08-04 06:10:51]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 06:10:51]: [INFO] Hooked successfully into Essentials
+[08-04 06:10:51]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 06:10:51]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 06:10:51]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 06:12:59]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 06:15:58]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 06:19:17]: [INFO] SQLite Setup finished
+[08-04 06:19:17]: [INFO] Hooked into LuckPerms!
+[08-04 06:19:17]: [INFO] Hooked successfully into Essentials
+[08-04 06:19:17]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 06:19:17]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 06:19:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 06:19:17]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 06:21:41]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 06:30:28]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 06:35:02]: [INFO] SQLite Setup finished
+[08-04 06:35:02]: [INFO] Hooked into LuckPerms!
+[08-04 06:35:02]: [INFO] Hooked successfully into Essentials
+[08-04 06:35:02]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 06:35:02]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 06:35:02]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 06:35:03]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 06:39:09]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 06:42:27]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 06:43:42]: [INFO] SQLite Setup finished
+[08-04 06:43:42]: [INFO] Hooked into LuckPerms!
+[08-04 06:43:43]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 06:43:43]: [INFO] Hooked successfully into Essentials
+[08-04 06:43:43]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 06:43:43]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 06:43:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 06:46:14]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 06:47:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 06:48:26]: [INFO] SQLite Setup finished
+[08-04 06:48:26]: [INFO] Hooked into LuckPerms!
+[08-04 06:48:26]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 06:48:27]: [INFO] Hooked successfully into Essentials
+[08-04 06:48:27]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 06:48:27]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 06:48:27]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 06:50:40]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 06:51:35]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 06:52:47]: [INFO] SQLite Setup finished
+[08-04 06:52:47]: [INFO] Hooked into LuckPerms!
+[08-04 06:52:47]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 06:52:47]: [INFO] Hooked successfully into Essentials
+[08-04 06:52:47]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 06:52:47]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 06:52:47]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 06:53:22]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 06:55:24]: [INFO] SQLite Setup finished
+[08-04 06:55:24]: [INFO] Hooked into LuckPerms!
+[08-04 06:55:25]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 06:55:25]: [INFO] Hooked successfully into Essentials
+[08-04 06:55:25]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 06:55:25]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 06:55:25]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 06:57:22]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 07:00:04]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 07:02:19]: [INFO] SQLite Setup finished
+[08-04 07:02:19]: [INFO] Hooked into LuckPerms!
+[08-04 07:02:19]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 07:02:19]: [INFO] Hooked successfully into Essentials
+[08-04 07:02:19]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 07:02:19]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 07:02:19]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 07:03:01]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 07:06:14]: [INFO] SQLite Setup finished
+[08-04 07:06:14]: [INFO] Hooked into LuckPerms!
+[08-04 07:06:14]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 07:06:14]: [INFO] Hooked successfully into Essentials
+[08-04 07:06:14]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 07:06:14]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 07:06:14]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 07:07:58]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 07:11:04]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 07:13:42]: [INFO] SQLite Setup finished
+[08-04 07:13:42]: [INFO] Hooked into LuckPerms!
+[08-04 07:13:42]: [INFO] Hooked successfully into Essentials
+[08-04 07:13:42]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 07:13:42]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 07:13:42]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 07:13:42]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 07:15:50]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 07:19:59]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 07:22:09]: [INFO] SQLite Setup finished
+[08-04 07:22:09]: [INFO] Hooked into LuckPerms!
+[08-04 07:22:09]: [INFO] Hooked successfully into Essentials
+[08-04 07:22:09]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 07:22:09]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 07:22:09]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 07:22:09]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 07:23:41]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 14:45:41]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 15:14:56]: [INFO] SQLite Setup finished
+[08-04 15:14:56]: [INFO] Hooked into LuckPerms!
+[08-04 15:14:56]: [INFO] Hooked successfully into Essentials
+[08-04 15:14:56]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 15:14:56]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 15:14:56]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 15:14:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 15:17:41]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 15:32:51]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 15:40:14]: [INFO] SQLite Setup finished
+[08-04 15:40:14]: [INFO] Hooked into LuckPerms!
+[08-04 15:40:15]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 15:40:15]: [INFO] Hooked successfully into Essentials
+[08-04 15:40:15]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 15:40:15]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 15:40:15]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 15:46:22]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 16:33:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 16:35:44]: [INFO] SQLite Setup finished
+[08-04 16:35:44]: [INFO] Hooked into LuckPerms!
+[08-04 16:35:44]: [INFO] Hooked successfully into Essentials
+[08-04 16:35:44]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 16:35:44]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 16:35:44]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 16:35:44]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 16:38:01]: [FINE] LanceLucky logged in 190.237.177.200
+[08-04 17:03:07]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 17:04:14]: [INFO] SQLite Setup finished
+[08-04 17:04:14]: [INFO] Hooked into LuckPerms!
+[08-04 17:04:15]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 17:04:15]: [INFO] Hooked successfully into Essentials
+[08-04 17:04:15]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 17:04:15]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 17:04:15]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 17:56:38]: [FINE] Yorlan logged in 186.179.68.23
+[08-04 18:13:59]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-04 18:19:24]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-04 18:20:47]: [INFO] SQLite Setup finished
+[08-04 18:20:47]: [INFO] Hooked into LuckPerms!
+[08-04 18:20:47]: [INFO] Hooked successfully into Essentials
+[08-04 18:20:47]: [INFO] Hooked successfully into Multiverse-Core
+[08-04 18:20:47]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-04 18:20:47]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-04 18:20:47]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-04 18:21:37]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-04 18:50:20]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-04 18:58:53]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-04 19:12:07]: [FINE] angelisbh registered 24.129.24.65
+[08-04 19:12:07]: [FINE] angelisbh logged in 24.129.24.65
+[08-04 19:53:08]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-04 20:18:23]: [FINE] Yorlan logged in 186.179.68.23
+[08-05 03:06:29]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-05 03:16:16]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-05 03:17:48]: [INFO] SQLite Setup finished
+[08-05 03:17:48]: [INFO] Hooked into LuckPerms!
+[08-05 03:17:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-05 03:17:48]: [INFO] Hooked successfully into Essentials
+[08-05 03:17:48]: [INFO] Hooked successfully into Multiverse-Core
+[08-05 03:17:48]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-05 03:17:49]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-05 05:12:46]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-05 05:29:09]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-05 17:14:38]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-05 17:16:55]: [INFO] SQLite Setup finished
+[08-05 17:16:55]: [INFO] Hooked into LuckPerms!
+[08-05 17:16:55]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-05 17:16:56]: [INFO] Hooked successfully into Essentials
+[08-05 17:16:56]: [INFO] Hooked successfully into Multiverse-Core
+[08-05 17:16:56]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-05 17:16:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-05 17:21:26]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-05 17:38:17]: [INFO] SQLite Setup finished
+[08-05 17:38:17]: [INFO] Hooked into LuckPerms!
+[08-05 17:38:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-05 17:38:17]: [INFO] Hooked successfully into Essentials
+[08-05 17:38:17]: [INFO] Hooked successfully into Multiverse-Core
+[08-05 17:38:17]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-05 17:38:17]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-05 17:39:54]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 17:40:26]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 18:10:50]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 18:47:35]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-05 18:49:57]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 18:52:49]: [FINE] angelisbh logged in 24.129.24.65
+[08-05 19:05:33]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-05 19:23:02]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-05 19:25:20]: [INFO] SQLite Setup finished
+[08-05 19:25:20]: [INFO] Hooked into LuckPerms!
+[08-05 19:25:20]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-05 19:25:20]: [INFO] Hooked successfully into Essentials
+[08-05 19:25:20]: [INFO] Hooked successfully into Multiverse-Core
+[08-05 19:25:20]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-05 19:25:20]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-05 19:26:02]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 19:27:07]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-05 19:36:31]: [INFO] SQLite Setup finished
+[08-05 19:36:31]: [INFO] Hooked into LuckPerms!
+[08-05 19:36:31]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-05 19:36:31]: [INFO] Hooked successfully into Essentials
+[08-05 19:36:31]: [INFO] Hooked successfully into Multiverse-Core
+[08-05 19:36:31]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-05 19:36:32]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-05 19:39:53]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 19:40:52]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-05 19:43:30]: [INFO] SQLite Setup finished
+[08-05 19:43:30]: [INFO] Hooked into LuckPerms!
+[08-05 19:43:30]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-05 19:43:30]: [INFO] Hooked successfully into Essentials
+[08-05 19:43:30]: [INFO] Hooked successfully into Multiverse-Core
+[08-05 19:43:30]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-05 19:43:30]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-05 19:46:39]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 19:47:57]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-05 19:52:43]: [INFO] SQLite Setup finished
+[08-05 19:52:43]: [INFO] Hooked into LuckPerms!
+[08-05 19:52:43]: [INFO] Hooked successfully into Essentials
+[08-05 19:52:43]: [INFO] Hooked successfully into Multiverse-Core
+[08-05 19:52:43]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-05 19:52:43]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-05 19:52:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-05 19:54:17]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 20:01:38]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-05 20:14:18]: [INFO] SQLite Setup finished
+[08-05 20:14:18]: [INFO] Hooked into LuckPerms!
+[08-05 20:14:19]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-05 20:14:19]: [INFO] Hooked successfully into Essentials
+[08-05 20:14:19]: [INFO] Hooked successfully into Multiverse-Core
+[08-05 20:14:19]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-05 20:14:19]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-05 20:18:00]: [FINE] LanceLucky logged in 190.237.177.200
+[08-05 21:53:23]: [FINE] MUERTElml registered 181.53.96.152
+[08-05 21:53:23]: [FINE] MUERTElml logged in 181.53.96.152
+[08-06 04:18:31]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 05:36:14]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 05:52:46]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-06 05:56:11]: [INFO] SQLite Setup finished
+[08-06 05:56:11]: [INFO] Hooked into LuckPerms!
+[08-06 05:56:11]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-06 05:56:11]: [INFO] Hooked successfully into Essentials
+[08-06 05:56:11]: [INFO] Hooked successfully into Multiverse-Core
+[08-06 05:56:11]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-06 05:56:11]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-06 05:57:53]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 06:09:42]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-06 06:17:24]: [INFO] SQLite Setup finished
+[08-06 06:17:24]: [INFO] Hooked into LuckPerms!
+[08-06 06:17:25]: [INFO] Hooked successfully into Essentials
+[08-06 06:17:25]: [INFO] Hooked successfully into Multiverse-Core
+[08-06 06:17:25]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-06 06:17:25]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-06 06:17:25]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-06 06:19:04]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 06:23:14]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-06 06:26:29]: [INFO] SQLite Setup finished
+[08-06 06:26:29]: [INFO] Hooked into LuckPerms!
+[08-06 06:26:29]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-06 06:26:29]: [INFO] Hooked successfully into Essentials
+[08-06 06:26:29]: [INFO] Hooked successfully into Multiverse-Core
+[08-06 06:26:29]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-06 06:26:29]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-06 06:28:49]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 06:33:38]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-06 06:37:05]: [INFO] SQLite Setup finished
+[08-06 06:37:05]: [INFO] Hooked into LuckPerms!
+[08-06 06:37:05]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-06 06:37:05]: [INFO] Hooked successfully into Essentials
+[08-06 06:37:05]: [INFO] Hooked successfully into Multiverse-Core
+[08-06 06:37:05]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-06 06:37:05]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-06 06:38:55]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 06:42:00]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-06 06:44:43]: [INFO] SQLite Setup finished
+[08-06 06:44:43]: [INFO] Hooked into LuckPerms!
+[08-06 06:44:43]: [INFO] Hooked successfully into Essentials
+[08-06 06:44:43]: [INFO] Hooked successfully into Multiverse-Core
+[08-06 06:44:43]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-06 06:44:43]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-06 06:44:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-06 16:21:10]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 16:25:51]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 16:28:20]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 16:30:22]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 17:08:00]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 17:18:42]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 17:34:32]: [FINE] LanceLucky logged in 190.237.177.200
+[08-06 17:43:02]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 03:12:41]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 03:23:59]: [INFO] SQLite Setup finished
+[08-07 03:23:59]: [INFO] Hooked into LuckPerms!
+[08-07 03:23:59]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 03:23:59]: [INFO] Hooked successfully into Essentials
+[08-07 03:23:59]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 03:23:59]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 03:23:59]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 03:25:30]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 05:02:46]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 05:14:16]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 05:16:35]: [INFO] SQLite Setup finished
+[08-07 05:16:35]: [INFO] Hooked into LuckPerms!
+[08-07 05:16:35]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 05:16:35]: [INFO] Hooked successfully into Essentials
+[08-07 05:16:35]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 05:16:35]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 05:16:35]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 05:21:56]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 05:42:12]: [INFO] SQLite Setup finished
+[08-07 05:42:12]: [INFO] Hooked into LuckPerms!
+[08-07 05:42:12]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 05:42:12]: [INFO] Hooked successfully into Essentials
+[08-07 05:42:12]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 05:42:12]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 05:42:12]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 05:45:41]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 06:20:55]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 13:22:09]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 14:10:22]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 14:12:28]: [INFO] SQLite Setup finished
+[08-07 14:12:28]: [INFO] Hooked into LuckPerms!
+[08-07 14:12:28]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 14:12:28]: [INFO] Hooked successfully into Essentials
+[08-07 14:12:28]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 14:12:28]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 14:12:29]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 14:14:20]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 14:14:50]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 14:16:33]: [INFO] SQLite Setup finished
+[08-07 14:16:33]: [INFO] Hooked into LuckPerms!
+[08-07 14:16:33]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 14:16:33]: [INFO] Hooked successfully into Essentials
+[08-07 14:16:33]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 14:16:33]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 14:16:33]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 14:18:13]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 14:33:36]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 14:35:42]: [INFO] SQLite Setup finished
+[08-07 14:35:43]: [INFO] Hooked into LuckPerms!
+[08-07 14:35:43]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 14:35:43]: [INFO] Hooked successfully into Essentials
+[08-07 14:35:43]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 14:35:43]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 14:35:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 14:36:22]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 14:50:53]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 14:52:59]: [INFO] SQLite Setup finished
+[08-07 14:52:59]: [INFO] Hooked into LuckPerms!
+[08-07 14:53:00]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 14:53:00]: [INFO] Hooked successfully into Essentials
+[08-07 14:53:00]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 14:53:00]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 14:53:00]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 15:46:30]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 16:05:05]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 16:13:51]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 16:14:46]: [INFO] SQLite Setup finished
+[08-07 16:14:46]: [INFO] Hooked into LuckPerms!
+[08-07 16:14:47]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 16:14:47]: [INFO] Hooked successfully into Essentials
+[08-07 16:14:47]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 16:14:47]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 16:14:47]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 16:15:42]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 16:17:05]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 16:18:23]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 16:19:50]: [INFO] SQLite Setup finished
+[08-07 16:19:50]: [INFO] Hooked into LuckPerms!
+[08-07 16:19:50]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 16:19:50]: [INFO] Hooked successfully into Essentials
+[08-07 16:19:50]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 16:19:50]: [INFO] Essentials spawn file not found: '/home/container/plugins/Essentials/spawn.yml'
+[08-07 16:19:50]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 16:20:34]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 18:25:48]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 18:48:30]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 19:11:27]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 19:18:02]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 19:19:31]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 20:51:05]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 22:06:32]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 22:18:24]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 22:24:36]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 23:35:22]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 23:35:53]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-07 23:40:48]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-07 23:41:48]: [INFO] SQLite Setup finished
+[08-07 23:41:48]: [INFO] Hooked into LuckPerms!
+[08-07 23:41:48]: [INFO] Hooked successfully into Essentials
+[08-07 23:41:48]: [INFO] Hooked successfully into Multiverse-Core
+[08-07 23:41:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-07 23:41:49]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-07 23:43:52]: [FINE] LanceLucky logged in 190.237.177.200
+[08-07 23:45:10]: [FINE] lreinhardl registered 95.18.244.46
+[08-07 23:45:10]: [FINE] lreinhardl logged in 95.18.244.46
+[08-07 23:46:01]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-08 00:05:42]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-08 00:16:03]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-08 00:19:28]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-08 00:40:28]: [FINE] angelisbh logged in 24.129.24.65
+[08-08 01:04:34]: [FINE] MUERTElml logged in 181.53.96.74
+[08-08 01:07:48]: [FINE] IngMikee registered 102.177.174.29
+[08-08 01:07:48]: [FINE] IngMikee logged in 102.177.174.29
+[08-08 01:10:36]: [FINE] LanceLucky logged in 190.237.177.200
+[08-08 01:19:31]: [FINE] Yexpick registered 200.90.81.10
+[08-08 01:19:31]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:23:00]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:25:08]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:29:33]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:32:58]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:34:58]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:41:18]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:44:31]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:46:44]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 01:57:23]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 02:01:47]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 02:13:32]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 02:16:25]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 02:19:38]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-08 02:24:02]: [FINE] LanceLucky logged in 190.237.177.200
+[08-08 03:36:49]: [FINE] angelisbh logged in 24.129.24.65
+[08-08 03:59:46]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-08 04:29:45]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-08 06:41:27]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-08 08:22:37]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-08 09:36:26]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-08 16:08:24]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-08 17:49:45]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-08 17:50:42]: [INFO] SQLite Setup finished
+[08-08 17:50:42]: [INFO] Hooked into LuckPerms!
+[08-08 17:50:42]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-08 17:50:42]: [INFO] Hooked successfully into Essentials
+[08-08 17:50:42]: [INFO] Hooked successfully into Multiverse-Core
+[08-08 17:50:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-08 17:51:47]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-08 18:44:04]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-08 19:22:01]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-08 21:29:19]: [FINE] angelisbh logged in 24.129.24.65
+[08-08 21:34:46]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 21:38:27]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 21:42:18]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 21:45:06]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 21:47:02]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 21:48:28]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 21:54:18]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 21:59:00]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 22:04:16]: [FINE] Yexpick logged in 200.90.81.10
+[08-08 23:42:43]: [FINE] Yexpick logged in 200.90.81.10
+[08-09 00:55:12]: [FINE] angelisbh logged in 24.129.24.65
+[08-09 01:43:30]: [FINE] Yexpick logged in 200.90.81.10
+[08-09 01:52:53]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-09 01:53:24]: [FINE] LanceLucky logged in 190.237.177.200
+[08-09 02:05:28]: [FINE] Yexpick logged in 200.90.81.10
+[08-09 02:12:07]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-09 02:12:09]: [FINE] angelisbh logged in 24.129.24.65
+[08-09 02:48:11]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-09 04:50:45]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-09 09:44:08]: [FINE] lreinhardl logged in 95.18.244.46
+[08-09 09:44:10]: [FINE] MintList152070 registered 95.18.244.46
+[08-09 09:44:10]: [FINE] The user MintList152070 has 2 accounts:
+[08-09 09:44:10]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-09 09:44:10]: [FINE] MintList152070 logged in 95.18.244.46
+[08-09 10:11:32]: [FINE] The user MintList152070 has 2 accounts:
+[08-09 10:11:32]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-09 10:11:32]: [FINE] MintList152070 logged in 95.18.244.46
+[08-09 10:23:00]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-09 10:25:01]: [INFO] SQLite Setup finished
+[08-09 10:25:01]: [INFO] Hooked into LuckPerms!
+[08-09 10:25:01]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-09 10:25:01]: [INFO] Hooked successfully into Essentials
+[08-09 10:25:01]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 10:25:01]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-09 10:28:14]: [FINE] The user MintList152070 has 2 accounts:
+[08-09 10:28:14]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-09 10:28:14]: [FINE] MintList152070 logged in 95.18.244.46
+[08-09 11:12:31]: [FINE] The user MintList152070 has 2 accounts:
+[08-09 11:12:31]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-09 11:12:31]: [FINE] MintList152070 logged in 95.18.244.46
+[08-09 16:50:19]: [FINE] LanceLucky logged in 190.237.177.200
+[08-09 17:00:49]: [FINE] angelisbh logged in 24.129.24.65
+[08-09 17:03:57]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-09 17:05:43]: [INFO] SQLite Setup finished
+[08-09 17:05:43]: [INFO] Hooked into LuckPerms!
+[08-09 17:05:43]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-09 17:05:43]: [INFO] Hooked successfully into Essentials
+[08-09 17:05:43]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 17:05:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-09 17:06:42]: [FINE] LanceLucky logged in 190.237.177.200
+[08-09 17:09:49]: [FINE] LanceLucky logged in 190.237.177.200
+[08-09 17:14:26]: [FINE] angelisbh logged in 24.129.24.65
+[08-09 17:19:13]: [FINE] The user MintList152070 has 2 accounts:
+[08-09 17:19:13]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-09 17:19:13]: [FINE] MintList152070 logged in 95.18.244.46
+[08-09 17:53:34]: [INFO] SQLite Setup finished
+[08-09 17:53:34]: [INFO] Hooked into LuckPerms!
+[08-09 17:53:34]: [INFO] Hooked successfully into Essentials
+[08-09 17:53:34]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 17:53:34]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-09 17:53:35]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-09 17:54:20]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-09 17:56:14]: [INFO] SQLite Setup finished
+[08-09 17:56:15]: [INFO] Hooked into LuckPerms!
+[08-09 17:56:15]: [INFO] Hooked successfully into Essentials
+[08-09 17:56:15]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 17:56:15]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-09 17:56:15]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-09 18:21:36]: [FINE] LanceLucky logged in 190.237.177.200
+[08-09 19:15:03]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-09 19:21:40]: [FINE] angelisbh logged in 24.129.24.65
+[08-09 20:04:30]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-09 20:19:42]: [FINE] Yexpick logged in 200.90.81.10
+[08-09 20:19:52]: [INFO] §6Deleted 1 user accounts
+[08-09 20:32:04]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-09 20:53:57]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-09 21:24:31]: [FINE] Yexpick logged in 200.90.81.10
+[08-09 21:46:51]: [FINE] Yexpick logged in 200.90.81.10
+[08-09 22:24:37]: [FINE] Yexpick logged in 200.90.81.10
+[08-09 23:48:45]: [INFO] SQLite Setup finished
+[08-09 23:48:45]: [INFO] Hooked into LuckPerms!
+[08-09 23:48:46]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-09 23:48:46]: [INFO] Hooked successfully into Essentials
+[08-09 23:48:46]: [INFO] Hooked successfully into Multiverse-Core
+[08-09 23:48:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-09 23:49:18]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-11 19:56:36]: [INFO] SQLite Setup finished
+[08-11 19:56:36]: [INFO] Hooked into LuckPerms!
+[08-11 19:56:36]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-11 19:56:37]: [INFO] Hooked successfully into Essentials
+[08-11 19:56:37]: [INFO] Hooked successfully into Multiverse-Core
+[08-11 19:56:37]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-12 14:00:28]: [FINE] LanceLucky logged in 190.237.177.200
+[08-12 19:55:19]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-12 20:02:52]: [INFO] SQLite Setup finished
+[08-12 20:02:53]: [INFO] Hooked into LuckPerms!
+[08-12 20:02:53]: [INFO] Hooked successfully into Essentials
+[08-12 20:02:53]: [INFO] Hooked successfully into Multiverse-Core
+[08-12 20:02:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-12 20:02:53]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-12 20:03:47]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-12 20:16:17]: [INFO] SQLite Setup finished
+[08-12 20:16:17]: [INFO] Hooked into LuckPerms!
+[08-12 20:16:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-12 20:16:17]: [INFO] Hooked successfully into Essentials
+[08-12 20:16:17]: [INFO] Hooked successfully into Multiverse-Core
+[08-12 20:16:17]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-12 20:17:17]: [FINE] LanceLucky logged in 190.237.177.200
+[08-12 21:23:36]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-12 23:25:53]: [FINE] LanceLucky logged in 190.237.177.200
+[08-13 00:08:23]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-13 03:53:19]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-13 12:48:39]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-13 12:49:36]: [INFO] SQLite Setup finished
+[08-13 12:49:36]: [INFO] Hooked into LuckPerms!
+[08-13 12:49:36]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-13 12:49:36]: [INFO] Hooked successfully into Essentials
+[08-13 12:49:36]: [INFO] Hooked successfully into Multiverse-Core
+[08-13 12:49:37]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-13 16:36:43]: [FINE] LanceLucky logged in 190.237.177.200
+[08-13 22:38:17]: [FINE] Yexpick logged in 200.90.81.10
+[08-13 22:43:58]: [FINE] Yexpick logged in 200.90.81.10
+[08-13 22:57:23]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-13 23:12:42]: [FINE] angelisbh logged in 24.129.24.65
+[08-13 23:15:42]: [FINE] Yexpick logged in 200.90.81.10
+[08-13 23:38:13]: [FINE] Yexpick logged in 200.90.81.10
+[08-14 00:31:45]: [FINE] angelisbh logged in 24.129.24.65
+[08-14 00:43:52]: [FINE] Yexpick logged in 200.90.81.10
+[08-14 00:47:39]: [FINE] Yexpick logged in 200.90.81.10
+[08-14 01:24:07]: [FINE] Yexpick logged in 200.90.81.10
+[08-14 01:35:55]: [FINE] Yexpick logged in 200.90.81.10
+[08-14 03:07:08]: [FINE] MUERTElml logged in 181.53.96.74
+[08-14 03:28:52]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-14 03:31:33]: [FINE] Yexpick logged in 200.90.81.10
+[08-14 04:17:48]: [FINE] Yexpick logged in 200.90.81.10
+[08-14 05:55:40]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-14 15:15:42]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-14 15:16:41]: [INFO] SQLite Setup finished
+[08-14 15:16:42]: [INFO] Hooked into LuckPerms!
+[08-14 15:16:42]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-14 15:16:42]: [INFO] Hooked successfully into Essentials
+[08-14 15:16:42]: [INFO] Hooked successfully into Multiverse-Core
+[08-14 15:16:42]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-14 21:45:46]: [FINE] angelisbh logged in 24.129.24.65
+[08-14 23:26:28]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 00:25:33]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 00:30:43]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 01:00:09]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 01:26:18]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 01:36:29]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 02:26:48]: [FINE] LanceLucky logged in 190.237.177.200
+[08-15 02:33:59]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 16:30:41]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 17:33:07]: [FINE] LanceLucky logged in 190.237.177.200
+[08-15 20:12:53]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-15 20:19:39]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-15 20:41:41]: [FINE] angelisbh logged in 24.129.24.65
+[08-15 21:10:12]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 21:53:35]: [FINE] angelisbh logged in 24.129.24.65
+[08-15 22:22:43]: [FINE] IngMikee logged in 102.177.174.29
+[08-15 23:03:26]: [FINE] Yexpick logged in 200.90.81.10
+[08-15 23:45:30]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-16 00:12:34]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-16 00:47:16]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-16 00:54:05]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-16 01:07:37]: [FINE] LanceLucky logged in 190.237.177.200
+[08-16 01:14:18]: [FINE] LanceLucky logged in 190.237.177.200
+[08-16 01:21:52]: [FINE] Yexpick logged in 200.90.81.10
+[08-16 01:39:55]: [FINE] Yexpick logged in 200.90.81.10
+[08-16 01:53:05]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-16 02:15:34]: [FINE] Yexpick logged in 200.90.81.10
+[08-16 02:20:22]: [FINE] Yexpick logged in 200.90.81.10
+[08-16 02:21:49]: [FINE] Yexpick logged in 200.90.81.10
+[08-16 02:25:05]: [FINE] LanceLucky logged in 190.237.177.200
+[08-16 03:07:29]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-16 03:08:46]: [INFO] SQLite Setup finished
+[08-16 03:08:46]: [INFO] Hooked into LuckPerms!
+[08-16 03:08:46]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-16 03:08:46]: [INFO] Hooked successfully into Essentials
+[08-16 03:08:46]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 03:08:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-16 03:09:10]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-16 03:09:34]: [FINE] Yexpick logged in 200.90.81.10
+[08-16 03:15:41]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-16 03:17:01]: [INFO] SQLite Setup finished
+[08-16 03:17:01]: [INFO] Hooked into LuckPerms!
+[08-16 03:17:01]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-16 03:17:01]: [INFO] Hooked successfully into Essentials
+[08-16 03:17:01]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 03:17:01]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-16 03:20:02]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-16 03:28:06]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-16 03:29:34]: [INFO] SQLite Setup finished
+[08-16 03:29:35]: [INFO] Hooked into LuckPerms!
+[08-16 03:29:35]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-16 03:29:35]: [INFO] Hooked successfully into Essentials
+[08-16 03:29:35]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 03:29:35]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-16 03:30:03]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-16 03:32:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-16 03:33:37]: [INFO] SQLite Setup finished
+[08-16 03:33:37]: [INFO] Hooked into LuckPerms!
+[08-16 03:33:37]: [INFO] Hooked successfully into Essentials
+[08-16 03:33:37]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 03:33:37]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-16 03:33:37]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-16 03:35:02]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-16 03:37:02]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-16 03:38:29]: [INFO] SQLite Setup finished
+[08-16 03:38:29]: [INFO] Hooked into LuckPerms!
+[08-16 03:38:30]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-16 03:38:30]: [INFO] Hooked successfully into Essentials
+[08-16 03:38:30]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 03:38:30]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-16 03:39:12]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-16 03:57:12]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-16 03:58:55]: [INFO] SQLite Setup finished
+[08-16 03:58:55]: [INFO] Hooked into LuckPerms!
+[08-16 03:58:56]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-16 03:58:56]: [INFO] Hooked successfully into Essentials
+[08-16 03:58:56]: [INFO] Hooked successfully into Multiverse-Core
+[08-16 03:58:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-16 03:59:35]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-17 02:26:23]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-17 06:17:52]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-17 10:45:15]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-17 10:46:11]: [INFO] SQLite Setup finished
+[08-17 10:46:11]: [INFO] Hooked into LuckPerms!
+[08-17 10:46:11]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-17 10:46:11]: [INFO] Hooked successfully into Essentials
+[08-17 10:46:11]: [INFO] Hooked successfully into Multiverse-Core
+[08-17 10:46:11]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-17 20:14:26]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-17 21:37:24]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-17 21:38:34]: [INFO] SQLite Setup finished
+[08-17 21:38:34]: [INFO] Hooked into LuckPerms!
+[08-17 21:38:34]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-17 21:38:34]: [INFO] Hooked successfully into Essentials
+[08-17 21:38:34]: [INFO] Hooked successfully into Multiverse-Core
+[08-17 21:38:35]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-17 21:42:34]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-17 21:44:24]: [INFO] SQLite Setup finished
+[08-17 21:44:24]: [INFO] Hooked into LuckPerms!
+[08-17 21:44:24]: [INFO] Hooked successfully into Essentials
+[08-17 21:44:24]: [INFO] Hooked successfully into Multiverse-Core
+[08-17 21:44:25]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-17 21:44:25]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-17 21:57:20]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-17 23:55:29]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 00:12:07]: [FINE] angelisbh logged in 24.129.24.65
+[08-18 00:32:23]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-18 01:07:54]: [FINE] angelisbh logged in 24.129.24.65
+[08-18 01:16:56]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 01:26:08]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 01:31:16]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 03:06:45]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 03:10:58]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 03:16:19]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 03:21:31]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 03:45:34]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 03:48:22]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 03:51:45]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 03:53:33]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 05:27:47]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 14:18:51]: [FINE] IngMikee logged in 102.177.174.29
+[08-18 15:10:17]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 15:17:34]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 15:23:03]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-18 15:25:09]: [INFO] SQLite Setup finished
+[08-18 15:25:09]: [INFO] Hooked into LuckPerms!
+[08-18 15:25:09]: [INFO] Hooked successfully into Essentials
+[08-18 15:25:09]: [INFO] Hooked successfully into Multiverse-Core
+[08-18 15:25:09]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-18 15:25:09]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-18 15:25:58]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-18 15:38:43]: [INFO] SQLite Setup finished
+[08-18 15:38:43]: [INFO] Hooked into LuckPerms!
+[08-18 15:38:43]: [INFO] Hooked successfully into Essentials
+[08-18 15:38:43]: [INFO] Hooked successfully into Multiverse-Core
+[08-18 15:38:43]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-18 15:38:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-18 16:41:35]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 16:50:06]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 19:29:10]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 19:38:37]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 19:52:57]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-18 19:55:35]: [INFO] SQLite Setup finished
+[08-18 19:55:36]: [INFO] Hooked into LuckPerms!
+[08-18 19:55:36]: [INFO] Hooked successfully into Essentials
+[08-18 19:55:36]: [INFO] Hooked successfully into Multiverse-Core
+[08-18 19:55:36]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-18 19:55:36]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-18 19:57:19]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 20:00:24]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 20:07:50]: [FINE] angelisbh logged in 24.129.24.65
+[08-18 20:08:09]: [FINE] IngMikee logged in 102.177.174.29
+[08-18 20:08:42]: [FINE] INKUSUSU registered 190.134.172.187
+[08-18 20:08:42]: [FINE] INKUSUSU logged in 190.134.172.187
+[08-18 20:09:06]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-18 20:09:10]: [FINE] MintList152070 used the wrong password
+[08-18 20:09:38]: [FINE] The user MintList152070 has 2 accounts:
+[08-18 20:09:38]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-18 20:09:38]: [FINE] MintList152070 logged in 95.18.244.46
+[08-18 20:09:53]: [FINE] Yorlan logged in 186.179.68.23
+[08-18 20:20:47]: [FINE] The user lreinhardl has 2 accounts:
+[08-18 20:20:47]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-18 20:20:47]: [FINE] lreinhardl logged in 95.18.244.46
+[08-18 20:21:53]: [FINE] Yexpick logged in 190.203.58.234
+[08-18 20:24:03]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-18 20:25:24]: [INFO] SQLite Setup finished
+[08-18 20:25:24]: [INFO] Hooked into LuckPerms!
+[08-18 20:25:24]: [INFO] Hooked successfully into Essentials
+[08-18 20:25:24]: [INFO] Hooked successfully into Multiverse-Core
+[08-18 20:25:24]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-18 20:25:24]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-18 20:25:47]: [FINE] IngMikee logged in 102.177.174.29
+[08-18 20:25:50]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-18 20:25:55]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-18 20:26:12]: [FINE] Yexpick logged in 190.203.58.234
+[08-18 20:26:15]: [FINE] INKUSUSU logged in 190.134.172.187
+[08-18 20:26:33]: [FINE] LanceLucky logged in 190.237.177.200
+[08-18 20:26:34]: [FINE] The user lreinhardl has 2 accounts:
+[08-18 20:26:34]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-18 20:26:34]: [FINE] lreinhardl logged in 95.18.244.46
+[08-18 20:26:41]: [FINE] EVIL_OVER registered 181.67.60.180
+[08-18 20:26:41]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-18 20:26:45]: [FINE] angelisbh logged in 24.129.24.65
+[08-18 20:27:01]: [FINE] XDarkX1 registered 190.120.253.210
+[08-18 20:27:01]: [FINE] XDarkX1 logged in 190.120.253.210
+[08-18 20:27:43]: [FINE] The user MintList152070 has 2 accounts:
+[08-18 20:27:43]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-18 20:27:43]: [FINE] MintList152070 logged in 95.18.244.46
+[08-18 20:28:33]: [FINE] Yorlan logged in 186.179.68.23
+[08-18 20:56:08]: [FINE] prodigy14163 registered 189.141.107.193
+[08-18 20:56:08]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-18 21:16:00]: [FINE] INKUSUSU logged in 190.134.172.187
+[08-18 21:26:25]: [FINE] LoxzS registered 181.203.48.167
+[08-18 21:26:25]: [FINE] LoxzS logged in 181.203.48.167
+[08-18 21:31:18]: [FINE] Yexpick logged in 190.203.58.234
+[08-18 21:48:20]: [FINE] KYMCR registered 186.39.151.151
+[08-18 21:48:41]: [FINE] KYMCR logged in 186.39.151.151
+[08-18 22:07:19]: [FINE] KYMCR logged in 186.39.151.151
+[08-18 22:20:52]: [FINE] INKUSUSU logged in 190.134.172.187
+[08-18 22:31:20]: [FINE] MUERTElml logged in 181.53.96.74
+[08-18 22:39:40]: [FINE] SirCharlesMcLeod registered 2.139.20.208
+[08-18 22:39:40]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-18 22:58:53]: [FINE] XDarkX1 logged in 190.120.253.210
+[08-18 23:04:21]: [FINE] Drakoxx12 registered 190.6.42.191
+[08-18 23:04:21]: [FINE] Drakoxx12 logged in 190.6.42.191
+[08-18 23:20:58]: [FINE] MUERTElml logged in 181.53.96.74
+[08-18 23:26:09]: [FINE] XDarkX1 logged in 190.120.253.210
+[08-18 23:29:01]: [FINE] Yexpick logged in 190.203.58.234
+[08-18 23:57:41]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 00:01:42]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 00:10:56]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 00:21:50]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 00:24:21]: [FINE] diegoneitor666 registered 189.203.45.122
+[08-19 00:24:22]: [FINE] diegoneitor666 logged in 189.203.45.122
+[08-19 00:35:00]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 00:41:14]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 00:43:49]: [FINE] angelisbh logged in 24.129.24.65
+[08-19 00:54:00]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 00:59:29]: [FINE] AminishKawer registered 201.177.0.227
+[08-19 00:59:29]: [FINE] AminishKawer logged in 201.177.0.227
+[08-19 01:05:45]: [FINE] KYMCR logged in 186.39.151.151
+[08-19 01:07:07]: [FINE] LoxzS logged in 181.203.48.167
+[08-19 01:29:15]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 01:29:45]: [FINE] diegoneitor666 logged in 189.203.45.122
+[08-19 01:31:17]: [FINE] Yorlan logged in 186.179.68.23
+[08-19 01:39:41]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-19 01:41:04]: [FINE] LoxzS logged in 181.203.48.167
+[08-19 01:58:43]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 02:12:04]: [FINE] hannyabal registered 190.112.99.50
+[08-19 02:12:04]: [FINE] hannyabal logged in 190.112.99.50
+[08-19 02:23:13]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 02:23:20]: [FINE] dor1025 registered 187.190.94.214
+[08-19 02:23:20]: [FINE] dor1025 logged in 187.190.94.214
+[08-19 02:41:25]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 02:43:12]: [FINE] KYMCR logged in 186.39.151.151
+[08-19 02:58:37]: [FINE] LanceLucky logged in 190.237.177.200
+[08-19 03:06:19]: [FINE] LanceLucky logged in 190.237.177.200
+[08-19 03:12:32]: [FINE] xFroddx registered 181.65.0.99
+[08-19 03:12:32]: [FINE] xFroddx logged in 181.65.0.99
+[08-19 03:16:44]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-19 03:27:28]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 03:31:12]: [FINE] Yorlan logged in 186.179.68.23
+[08-19 03:33:12]: [FINE] LanceLucky logged in 190.237.177.200
+[08-19 03:37:31]: [FINE] Yorlan logged in 186.179.68.23
+[08-19 03:51:15]: [FINE] TheDrave registered 181.46.166.72
+[08-19 03:51:15]: [FINE] TheDrave logged in 181.46.166.72
+[08-19 03:54:38]: [FINE] diegoneitor666 logged in 189.203.45.122
+[08-19 03:54:49]: [FINE] Yorlan logged in 186.179.68.23
+[08-19 04:07:35]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 04:31:57]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 04:36:49]: [FINE] LoxzS logged in 181.203.18.171
+[08-19 04:48:16]: [FINE] Yorlan logged in 186.179.68.23
+[08-19 04:49:18]: [FINE] xFroddx logged in 181.65.0.99
+[08-19 04:53:48]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-19 04:55:41]: [FINE] xFroddx logged in 181.65.0.99
+[08-19 04:59:04]: [FINE] Yorlan logged in 186.179.68.23
+[08-19 05:01:17]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-19 05:01:24]: [FINE] biccc registered 187.158.47.5
+[08-19 05:01:24]: [FINE] biccc logged in 187.158.47.5
+[08-19 05:13:26]: [FINE] TheDrave logged in 181.46.166.72
+[08-19 05:16:32]: [FINE] TheDrave logged in 181.46.166.72
+[08-19 05:20:33]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 05:29:54]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 05:48:37]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 05:58:26]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 06:06:15]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 06:21:57]: [FINE] Yexpick logged in 190.203.58.234
+[08-19 06:25:21]: [FINE] AminishKawer logged in 201.177.0.227
+[08-19 06:34:22]: [FINE] AminishKawer logged in 201.177.0.227
+[08-19 06:36:05]: [FINE] lreinhardl logged in 80.102.232.80
+[08-19 06:44:08]: [FINE] lreinhardl logged in 80.102.232.80
+[08-19 06:51:19]: [FINE] lreinhardl logged in 80.102.232.80
+[08-19 07:58:41]: [FINE] xFroddx logged in 181.65.0.99
+[08-19 08:26:05]: [FINE] xFroddx logged in 181.65.0.99
+[08-19 08:33:05]: [FINE] xFroddx logged in 181.65.0.99
+[08-19 09:11:23]: [FINE] xFroddx logged in 181.65.0.99
+[08-19 09:30:03]: [FINE] kedaoxd registered 24.141.110.33
+[08-19 09:30:04]: [FINE] kedaoxd logged in 24.141.110.33
+[08-19 09:44:42]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-19 09:51:52]: [FINE] kedaoxd logged in 24.141.110.33
+[08-19 11:40:13]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-19 11:44:48]: [INFO] SQLite Setup finished
+[08-19 11:44:48]: [INFO] Hooked into LuckPerms!
+[08-19 11:44:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-19 11:44:48]: [INFO] Hooked successfully into Essentials
+[08-19 11:44:48]: [INFO] Hooked successfully into Multiverse-Core
+[08-19 11:44:48]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-19 12:26:43]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 12:30:41]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 13:11:55]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 13:35:20]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 13:45:15]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-19 14:21:29]: [FINE] LanceLucky logged in 190.237.177.200
+[08-19 14:24:53]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-19 14:27:09]: [INFO] SQLite Setup finished
+[08-19 14:27:09]: [INFO] Hooked into LuckPerms!
+[08-19 14:27:09]: [INFO] Hooked successfully into Essentials
+[08-19 14:27:09]: [INFO] Hooked successfully into Multiverse-Core
+[08-19 14:27:09]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-19 14:27:09]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-19 14:27:22]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-19 14:28:58]: [INFO] SQLite Setup finished
+[08-19 14:28:58]: [INFO] Hooked into LuckPerms!
+[08-19 14:28:58]: [INFO] Hooked successfully into Essentials
+[08-19 14:28:58]: [INFO] Hooked successfully into Multiverse-Core
+[08-19 14:28:58]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-19 14:28:58]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-19 14:29:56]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-19 14:54:28]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 14:57:27]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 15:40:15]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 15:46:29]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-19 16:42:25]: [FINE] IngMikee logged in 102.177.174.29
+[08-19 16:49:06]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-19 17:12:53]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 17:33:36]: [FINE] Yorlan logged in 186.179.68.23
+[08-19 17:54:43]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 18:01:50]: [FINE] hannyabal logged in 190.112.99.50
+[08-19 18:06:22]: [FINE] TheDrave logged in 181.46.166.72
+[08-19 18:17:12]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 18:26:26]: [FINE] Yexpick used the wrong password
+[08-19 18:27:24]: [FINE] Yexpick logged in 200.44.209.17
+[08-19 18:36:28]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 18:51:44]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 19:12:24]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 19:12:27]: [FINE] Yorlan logged in 186.179.68.23
+[08-19 19:23:58]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 19:34:27]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 19:43:33]: [FINE] xFroddx logged in 181.65.0.67
+[08-19 19:55:43]: [FINE] angelisbh used the wrong password
+[08-19 19:59:24]: [FINE] angelisbh logged in 24.129.24.65
+[08-19 20:14:12]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 20:42:23]: [FINE] xFroddx logged in 181.65.0.67
+[08-19 20:42:24]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 21:08:09]: [FINE] MintList152070 logged in 95.18.244.46
+[08-19 21:21:08]: [FINE] MintList152070 logged in 95.18.244.46
+[08-19 21:21:20]: [FINE] The user lreinhardl has 2 accounts:
+[08-19 21:21:20]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-19 21:21:20]: [FINE] lreinhardl logged in 95.18.244.46
+[08-19 21:34:11]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 21:38:47]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 21:39:45]: [FINE] LoxzS used the wrong password
+[08-19 21:41:28]: [FINE] LoxzS logged in 181.203.66.147
+[08-19 21:51:22]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 22:00:40]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 22:39:29]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 22:57:21]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-19 23:08:03]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-19 23:14:06]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-19 23:20:44]: [FINE] LanceLucky logged in 190.237.177.200
+[08-19 23:30:49]: [FINE] LoxzS logged in 181.203.66.147
+[08-19 23:32:41]: [FINE] AminishKawer logged in 201.177.0.227
+[08-19 23:34:54]: [FINE] KYMCR logged in 186.39.151.151
+[08-19 23:47:51]: [FINE] Yexpick logged in 190.206.77.178
+[08-19 23:57:53]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 00:04:54]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 00:17:42]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-20 00:24:23]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 00:28:58]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 00:35:29]: [FINE] angelisbh logged in 24.129.24.65
+[08-20 00:39:13]: [FINE] dor1025 logged in 187.190.94.214
+[08-20 00:50:58]: [FINE] kedaoxd logged in 24.141.110.33
+[08-20 01:03:12]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 01:14:55]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 01:16:37]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-20 01:21:48]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 01:26:32]: [FINE] AminishKawer logged in 201.177.0.227
+[08-20 01:31:05]: [FINE] TheDrave logged in 181.46.166.72
+[08-20 01:32:46]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 01:41:35]: [FINE] kedaoxd logged in 24.141.110.33
+[08-20 02:12:09]: [FINE] hannyabal logged in 190.112.99.50
+[08-20 02:18:13]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 02:24:43]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-20 02:38:07]: [FINE] LoxzS logged in 191.125.39.124
+[08-20 02:39:41]: [FINE] AminishKawer logged in 201.177.0.227
+[08-20 02:43:13]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 02:54:29]: [FINE] xFroddx logged in 181.65.0.67
+[08-20 03:01:16]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 03:03:02]: [FINE] KenshiRyuto registered 81.61.26.41
+[08-20 03:03:02]: [FINE] KenshiRyuto logged in 81.61.26.41
+[08-20 03:07:18]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-20 03:08:39]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-20 03:09:09]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 03:21:28]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 03:23:14]: [FINE] LanceLucky logged in 190.237.177.200
+[08-20 03:32:52]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 03:36:49]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-20 03:37:26]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 04:32:05]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 04:47:59]: [FINE] xFroddx logged in 181.65.0.67
+[08-20 04:49:56]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-20 05:16:15]: [FINE] AminishKawer logged in 201.177.0.227
+[08-20 05:20:36]: [FINE] KYMCR logged in 186.39.151.151
+[08-20 05:21:38]: [FINE] AminishKawer logged in 201.177.0.227
+[08-20 05:29:57]: [FINE] AminishKawer used the wrong password
+[08-20 05:30:20]: [FINE] AminishKawer used the wrong password
+[08-20 05:30:43]: [FINE] AminishKawer used the wrong password
+[08-20 05:31:07]: [FINE] AminishKawer logged in 201.177.0.227
+[08-20 06:25:59]: [FINE] TheDrave logged in 181.46.166.72
+[08-20 06:26:13]: [FINE] xFroddx logged in 181.65.0.67
+[08-20 06:38:42]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-20 06:45:35]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-20 09:26:14]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-20 09:26:40]: [FINE] The user lreinhardl has 2 accounts:
+[08-20 09:26:40]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-20 09:26:40]: [FINE] lreinhardl logged in 95.18.244.46
+[08-20 09:47:59]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 09:47:59]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-20 09:47:59]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 09:51:53]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 09:51:53]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-20 09:51:53]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 11:34:02]: [FINE] The user lreinhardl has 2 accounts:
+[08-20 11:34:02]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-20 11:34:02]: [FINE] lreinhardl logged in 95.18.244.46
+[08-20 11:45:54]: [FINE] MintList152070 used the wrong password
+[08-20 11:46:19]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 11:46:19]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-20 11:46:19]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 12:26:02]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-20 13:14:53]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-20 13:28:57]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 13:33:20]: [FINE] Borj4 registered 79.117.10.27
+[08-20 13:33:20]: [FINE] Borj4 logged in 79.117.10.27
+[08-20 13:37:42]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 13:48:04]: [FINE] LanceLucky logged in 190.237.177.200
+[08-20 13:49:16]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-20 16:05:09]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 16:12:56]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-20 16:53:19]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 16:53:19]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-20 16:53:19]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 16:59:38]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 16:59:38]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-20 16:59:38]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 17:12:20]: [FINE] hannyabal logged in 190.112.99.50
+[08-20 17:27:03]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 17:27:03]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-20 17:27:03]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 17:47:16]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-20 17:48:28]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-20 17:51:59]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-20 18:50:45]: [FINE] KYMCR logged in 186.57.23.192
+[08-20 18:59:10]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 18:59:10]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-20 18:59:10]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 19:05:03]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 19:05:03]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-20 19:05:03]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 19:12:38]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 19:12:38]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-20 19:12:38]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 19:17:07]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 19:19:23]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 19:19:23]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-20 19:19:23]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 19:23:39]: [FINE] The user lreinhardl has 2 accounts:
+[08-20 19:23:39]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-20 19:23:39]: [FINE] lreinhardl logged in 95.18.244.46
+[08-20 19:31:22]: [FINE] IngMikee logged in 102.177.174.29
+[08-20 19:44:44]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 19:51:36]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 19:55:50]: [FINE] AminishKawer logged in 201.177.0.227
+[08-20 19:56:56]: [FINE] angelisbh logged in 24.129.24.65
+[08-20 19:57:01]: [FINE] Yexpick logged in 190.206.77.178
+[08-20 20:33:02]: [FINE] The user MintList152070 has 2 accounts:
+[08-20 20:33:02]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-20 20:33:02]: [FINE] MintList152070 logged in 95.18.244.46
+[08-20 20:34:28]: [FINE] LoxzS logged in 191.125.173.181
+[08-20 20:34:42]: [FINE] Lum22 registered 179.25.149.0
+[08-20 20:34:42]: [FINE] Lum22 logged in 179.25.149.0
+[08-20 20:38:01]: [FINE] Yorlan logged in 186.179.68.23
+[08-20 21:08:20]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-20 21:32:33]: [FINE] TheDrave logged in 181.46.166.72
+[08-20 21:40:20]: [FINE] LoxzS logged in 191.126.155.185
+[08-20 21:41:42]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-20 21:56:17]: [FINE] hannyabal logged in 190.112.99.50
+[08-20 22:44:48]: [FINE] lreinhardl logged in 90.167.99.156
+[08-20 22:55:21]: [FINE] Lum22 logged in 179.25.149.0
+[08-20 23:23:20]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-20 23:30:13]: [FINE] LoxzS logged in 181.203.72.40
+[08-20 23:36:10]: [FINE] Yexpick logged in 200.90.75.63
+[08-20 23:51:02]: [FINE] hannyabal logged in 190.112.99.50
+[08-21 00:03:58]: [FINE] nzza registered 181.46.57.46
+[08-21 00:03:58]: [FINE] nzza logged in 181.46.57.46
+[08-21 00:12:56]: [FINE] angelisbh used the wrong password
+[08-21 00:13:24]: [FINE] angelisbh logged in 24.129.24.65
+[08-21 00:28:07]: [FINE] Lum22 logged in 190.133.44.87
+[08-21 00:48:58]: [FINE] LanceLucky logged in 190.237.177.200
+[08-21 00:56:08]: [FINE] LoxzS logged in 181.203.72.40
+[08-21 01:04:09]: [FINE] LanceLucky logged in 190.237.177.200
+[08-21 01:06:19]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-21 01:14:50]: [FINE] AminishKawer logged in 201.177.0.227
+[08-21 01:31:34]: [FINE] Yexpick logged in 200.109.200.227
+[08-21 01:39:23]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-21 01:51:18]: [FINE] angelisbh logged in 24.129.24.65
+[08-21 01:54:21]: [FINE] XDarkX1 logged in 190.120.253.210
+[08-21 01:57:03]: [FINE] Lum22 logged in 190.133.44.87
+[08-21 02:01:33]: [FINE] xFroddx logged in 38.25.17.209
+[08-21 02:44:07]: [FINE] xFroddx logged in 38.25.17.209
+[08-21 02:55:35]: [FINE] KYMCR logged in 186.57.23.192
+[08-21 03:23:32]: [FINE] Lum22 logged in 190.133.44.87
+[08-21 03:35:11]: [FINE] Yexpick logged in 201.210.70.237
+[08-21 03:55:24]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-21 04:22:45]: [FINE] KYMCR logged in 186.57.23.192
+[08-21 04:39:26]: [FINE] KYMCR logged in 186.57.23.192
+[08-21 04:41:27]: [FINE] Lum22 logged in 190.133.44.87
+[08-21 05:15:09]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-21 05:18:59]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-21 05:29:45]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-21 05:31:19]: [FINE] QuacksTHO logged in 189.217.212.114
+[08-21 05:36:45]: [FINE] Yexpick logged in 201.210.70.237
+[08-21 06:08:23]: [FINE] AminishKawer logged in 201.177.0.227
+[08-21 06:40:31]: [FINE] xFroddx logged in 38.25.17.209
+[08-21 06:45:07]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-21 08:07:47]: [FINE] xFroddx logged in 38.25.17.209
+[08-21 09:13:27]: [FINE] RJosehh_ registered 172.59.208.124
+[08-21 09:13:27]: [FINE] RJosehh_ logged in 172.59.208.124
+[08-21 09:17:49]: [FINE] RJosehh_ logged in 172.59.208.124
+[08-21 09:28:46]: [FINE] RJosehh_ logged in 172.59.208.124
+[08-21 09:28:59]: [FINE] RJosehh_ logged in 172.59.208.124
+[08-21 10:02:26]: [FINE] The user lreinhardl has 2 accounts:
+[08-21 10:02:26]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-21 10:02:26]: [FINE] lreinhardl logged in 95.18.244.46
+[08-21 10:34:05]: [FINE] MintList152070 used the wrong password
+[08-21 10:34:36]: [FINE] The user MintList152070 has 2 accounts:
+[08-21 10:34:36]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-21 10:34:36]: [FINE] MintList152070 logged in 95.18.244.46
+[08-21 10:58:10]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-21 12:27:58]: [FINE] Volthark registered 45.173.73.101
+[08-21 12:27:58]: [FINE] Volthark logged in 45.173.73.101
+[08-21 13:03:48]: [FINE] Yexpick logged in 201.210.70.237
+[08-21 13:48:12]: [FINE] Yexpick logged in 201.210.70.237
+[08-21 13:51:27]: [FINE] Yexpick logged in 201.210.70.237
+[08-21 13:58:28]: [FINE] Yexpick logged in 201.210.70.237
+[08-21 14:03:02]: [FINE] Yexpick logged in 201.210.70.237
+[08-21 14:07:10]: [FINE] Yexpick logged in 201.210.70.237
+[08-21 14:23:26]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-21 15:16:47]: [INFO] SQLite Setup finished
+[08-21 15:16:47]: [INFO] Hooked into LuckPerms!
+[08-21 15:16:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-21 15:16:48]: [INFO] Hooked successfully into Essentials
+[08-21 15:16:48]: [INFO] Hooked successfully into Multiverse-Core
+[08-21 15:16:48]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-21 15:26:57]: [FINE] IngMikee logged in 102.177.174.29
+[08-21 16:39:05]: [FINE] Yexpick logged in 200.44.192.157
+[08-21 17:39:44]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-21 17:46:23]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-21 17:46:57]: [FINE] Lum22 logged in 190.133.44.87
+[08-21 17:56:29]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-21 17:57:55]: [FINE] xFroddx logged in 38.25.17.209
+[08-21 18:24:20]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-21 18:25:13]: [INFO] SQLite Setup finished
+[08-21 18:25:13]: [INFO] Hooked into LuckPerms!
+[08-21 18:25:13]: [INFO] Hooked successfully into Essentials
+[08-21 18:25:13]: [INFO] Hooked successfully into Multiverse-Core
+[08-21 18:25:13]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-21 18:25:13]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-21 18:26:01]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-21 18:26:16]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-21 18:26:50]: [FINE] Lum22 logged in 190.133.44.87
+[08-21 18:28:03]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-21 18:30:07]: [FINE] Yexpick logged in 200.44.192.157
+[08-21 19:04:38]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-21 19:08:04]: [FINE] IngMikee logged in 102.177.174.29
+[08-21 19:12:32]: [FINE] LanceLucky logged in 190.237.177.200
+[08-21 19:16:35]: [FINE] The user MintList152070 has 2 accounts:
+[08-21 19:16:35]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-21 19:16:35]: [FINE] MintList152070 logged in 95.18.244.46
+[08-21 19:38:47]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-21 19:40:40]: [FINE] Yexpick logged in 200.44.192.157
+[08-21 20:01:58]: [FINE] The user MintList152070 has 2 accounts:
+[08-21 20:01:58]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-21 20:01:58]: [FINE] MintList152070 logged in 95.18.244.46
+[08-21 20:08:25]: [FINE] LanceLucky logged in 190.237.177.200
+[08-21 20:09:28]: [FINE] The user lreinhardl has 2 accounts:
+[08-21 20:09:28]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-21 20:09:28]: [FINE] lreinhardl logged in 95.18.244.46
+[08-21 20:09:54]: [FINE] angelisbh logged in 24.129.24.65
+[08-21 20:18:01]: [FINE] Yexpick logged in 200.44.192.157
+[08-21 20:21:15]: [FINE] xFroddx logged in 38.25.17.209
+[08-21 20:21:46]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-21 20:23:31]: [FINE] Yorlan logged in 186.179.68.23
+[08-21 20:29:14]: [FINE] Yexpick logged in 200.44.192.157
+[08-21 20:31:35]: [FINE] hannyabal logged in 190.112.99.50
+[08-21 20:37:35]: [FINE] LanceLucky logged in 190.237.177.200
+[08-21 20:40:02]: [FINE] Yexpick logged in 200.44.192.157
+[08-21 20:42:39]: [FINE] Yexpick logged in 200.44.192.157
+[08-21 20:44:38]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-21 20:47:14]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-21 20:49:56]: [FINE] The user MintList152070 has 2 accounts:
+[08-21 20:49:56]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-21 20:49:56]: [FINE] MintList152070 logged in 95.18.244.46
+[08-21 20:54:49]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-21 21:08:40]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-21 21:32:26]: [FINE] Volthark logged in 45.173.73.101
+[08-21 22:10:46]: [FINE] hannyabal logged in 190.112.99.50
+[08-21 22:43:38]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-21 22:45:00]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-21 22:53:29]: [FINE] hannyabal logged in 190.112.99.50
+[08-21 23:02:55]: [FINE] Lum22 logged in 190.133.44.87
+[08-21 23:16:11]: [FINE] hannyabal logged in 190.112.99.50
+[08-21 23:46:55]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-21 23:53:33]: [FINE] xFroddx logged in 38.25.17.209
+[08-22 00:04:17]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-22 00:04:55]: [FINE] xFroddx logged in 38.25.17.209
+[08-22 00:12:42]: [FINE] xFroddx logged in 38.25.17.209
+[08-22 00:20:52]: [FINE] Yexpick logged in 190.206.82.24
+[08-22 00:24:05]: [FINE] Lum22 logged in 179.25.105.140
+[08-22 00:28:30]: [FINE] Yexpick logged in 190.206.82.24
+[08-22 00:56:51]: [FINE] Volthark logged in 45.173.73.101
+[08-22 01:09:42]: [FINE] alonhouse9yt registered 189.253.45.98
+[08-22 01:09:42]: [FINE] alonhouse9yt logged in 189.253.45.98
+[08-22 01:36:29]: [FINE] AminishKawer logged in 201.177.0.227
+[08-22 01:52:07]: [FINE] Yexpick logged in 190.206.82.24
+[08-22 02:09:40]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-22 02:16:08]: [FINE] ThatsSilly registered 179.60.64.8
+[08-22 02:16:08]: [FINE] ThatsSilly logged in 179.60.64.8
+[08-22 02:20:09]: [FINE] KenshiRyuto logged in 81.61.26.41
+[08-22 02:37:17]: [FINE] LoxzS used the wrong password
+[08-22 02:38:49]: [FINE] LoxzS logged in 191.125.10.25
+[08-22 03:30:59]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-22 03:37:32]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 03:40:54]: [FINE] KYMCR logged in 186.57.23.192
+[08-22 04:05:36]: [FINE] Yexpick logged in 190.206.82.24
+[08-22 04:17:31]: [FINE] Lum22 logged in 179.25.105.140
+[08-22 04:38:48]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-22 04:40:05]: [FINE] Yexpick logged in 190.206.82.24
+[08-22 04:48:08]: [FINE] xFroddx logged in 38.25.17.209
+[08-22 04:56:32]: [FINE] xFroddx logged in 38.25.17.209
+[08-22 06:20:53]: [FINE] xFroddx logged in 38.25.17.209
+[08-22 06:28:17]: [FINE] MoonDancer5 registered 190.236.82.111
+[08-22 06:28:17]: [FINE] MoonDancer5 logged in 190.236.82.111
+[08-22 06:30:01]: [FINE] Volthark logged in 45.173.73.101
+[08-22 07:31:03]: [FINE] The user lreinhardl has 2 accounts:
+[08-22 07:31:03]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-22 07:31:03]: [FINE] lreinhardl logged in 95.18.244.46
+[08-22 07:41:07]: [FINE] The user MintList152070 has 2 accounts:
+[08-22 07:41:07]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-22 07:41:07]: [FINE] MintList152070 logged in 95.18.244.46
+[08-22 07:58:45]: [FINE] The user MintList152070 has 2 accounts:
+[08-22 07:58:45]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-22 07:58:45]: [FINE] MintList152070 logged in 95.18.244.46
+[08-22 07:59:58]: [FINE] The user MintList152070 has 2 accounts:
+[08-22 07:59:58]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-22 07:59:58]: [FINE] MintList152070 logged in 95.18.244.46
+[08-22 08:37:41]: [FINE] The user lreinhardl has 2 accounts:
+[08-22 08:37:41]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-22 08:37:41]: [FINE] lreinhardl logged in 95.18.244.46
+[08-22 08:58:19]: [FINE] lreinhardl logged in 84.78.245.95
+[08-22 09:08:12]: [FINE] lreinhardl logged in 84.78.245.95
+[08-22 09:55:15]: [FINE] Volthark logged in 45.173.73.101
+[08-22 10:56:32]: [FINE] The user lreinhardl has 2 accounts:
+[08-22 10:56:32]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-22 10:56:32]: [FINE] lreinhardl logged in 95.18.244.46
+[08-22 11:05:43]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-22 11:56:08]: [FINE] Yexpick logged in 190.206.82.24
+[08-22 12:13:16]: [FINE] Yexpick logged in 190.206.82.24
+[08-22 13:44:08]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 14:09:18]: [FINE] Yexpick logged in 190.206.82.24
+[08-22 14:16:10]: [FINE] KenshiRyuto logged in 81.61.26.41
+[08-22 14:30:11]: [FINE] IngMikee logged in 102.177.174.29
+[08-22 14:37:36]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 14:54:49]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 15:41:59]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-22 16:15:49]: [FINE] NH0A registered 109.42.243.31
+[08-22 16:15:49]: [FINE] NH0A logged in 109.42.243.31
+[08-22 16:24:25]: [FINE] MoonDancer5 logged in 190.236.82.111
+[08-22 16:28:14]: [FINE] NH0A logged in 109.42.243.31
+[08-22 16:33:56]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 16:35:15]: [FINE] hannyabal logged in 190.112.99.50
+[08-22 16:37:22]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 16:42:34]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 17:00:10]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 17:59:22]: [FINE] Lum22 logged in 179.25.105.140
+[08-22 18:14:53]: [FINE] Volthark logged in 45.173.73.101
+[08-22 19:02:04]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-22 19:05:54]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-22 19:11:31]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-22 19:14:17]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-22 19:15:29]: [INFO] SQLite Setup finished
+[08-22 19:15:29]: [INFO] Hooked into LuckPerms!
+[08-22 19:15:29]: [INFO] Hooked successfully into Essentials
+[08-22 19:15:29]: [INFO] Hooked successfully into Multiverse-Core
+[08-22 19:15:29]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-22 19:15:30]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-22 19:20:28]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-22 19:22:19]: [INFO] SQLite Setup finished
+[08-22 19:22:19]: [INFO] Hooked into LuckPerms!
+[08-22 19:22:19]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-22 19:22:19]: [INFO] Hooked successfully into Essentials
+[08-22 19:22:19]: [INFO] Hooked successfully into Multiverse-Core
+[08-22 19:22:19]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-22 19:25:40]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-22 19:36:17]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 19:39:35]: [FINE] prodigy14163 logged in 189.141.107.193
+[08-22 20:09:51]: [FINE] Lum22 logged in 179.25.105.140
+[08-22 20:11:52]: [FINE] The user lreinhardl has 2 accounts:
+[08-22 20:11:52]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-22 20:11:52]: [FINE] lreinhardl logged in 95.18.244.46
+[08-22 20:16:20]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-22 20:20:10]: [FINE] The user MintList152070 has 2 accounts:
+[08-22 20:20:10]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-22 20:20:10]: [FINE] MintList152070 logged in 95.18.244.46
+[08-22 21:36:42]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-22 21:41:19]: [FINE] angelisbh logged in 24.129.24.65
+[08-22 21:47:54]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-22 21:49:56]: [FINE] LanceLucky logged in 190.237.177.200
+[08-22 22:10:24]: [FINE] RJosehh_ logged in 172.59.208.124
+[08-22 22:55:43]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-23 00:12:00]: [FINE] Lum22 logged in 179.25.105.140
+[08-23 00:22:25]: [FINE] Lum22 logged in 179.25.105.140
+[08-23 00:36:04]: [FINE] Lum22 logged in 179.25.105.140
+[08-23 01:04:43]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-23 02:23:19]: [FINE] KenshiRyuto logged in 81.61.26.41
+[08-23 02:23:51]: [FINE] Lum22 logged in 167.61.145.44
+[08-23 03:28:29]: [FINE] Lum22 logged in 167.61.145.44
+[08-23 03:48:03]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-23 04:36:15]: [FINE] Sigmund_Frank registered 38.25.17.171
+[08-23 04:36:15]: [FINE] Sigmund_Frank logged in 38.25.17.171
+[08-23 04:41:48]: [FINE] diegoneitor666 used the wrong password
+[08-23 04:44:57]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-23 05:01:53]: [FINE] Volthark logged in 45.173.73.101
+[08-23 05:26:02]: [FINE] Sigmund_Frank used the wrong password
+[08-23 05:26:21]: [FINE] Sigmund_Frank logged in 38.25.17.171
+[08-23 05:51:39]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-23 08:40:32]: [FINE] The user lreinhardl has 2 accounts:
+[08-23 08:40:32]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-23 08:40:32]: [FINE] lreinhardl logged in 95.18.244.46
+[08-23 09:32:57]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-23 12:10:35]: [FINE] Volthark logged in 45.173.73.101
+[08-23 12:54:01]: [FINE] The user MintList152070 has 2 accounts:
+[08-23 12:54:01]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-23 12:54:01]: [FINE] MintList152070 logged in 95.18.244.46
+[08-23 14:30:52]: [FINE] KenshiRyuto logged in 81.61.26.41
+[08-23 14:30:57]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-23 14:44:14]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-23 15:04:48]: [FINE] IngMikee logged in 102.177.174.29
+[08-23 15:32:38]: [FINE] hannyabal logged in 190.112.99.50
+[08-23 16:10:05]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-23 16:21:54]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-23 16:31:55]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-23 17:23:53]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-23 17:29:17]: [FINE] LoxzS used the wrong password
+[08-23 17:30:26]: [FINE] LoxzS logged in 181.203.68.215
+[08-23 18:15:21]: [FINE] Volthark logged in 45.173.73.101
+[08-23 18:32:42]: [FINE] EVIL_OVER logged in 181.67.60.180
+[08-23 18:35:33]: [FINE] MintList152070 used the wrong password
+[08-23 18:36:06]: [FINE] The user MintList152070 has 2 accounts:
+[08-23 18:36:06]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-23 18:36:06]: [FINE] MintList152070 logged in 95.18.244.46
+[08-23 18:51:49]: [FINE] LoxzS logged in 181.203.68.215
+[08-23 19:00:18]: [FINE] Volthark logged in 45.173.73.101
+[08-23 19:36:16]: [FINE] KenshiRyuto logged in 81.61.26.41
+[08-23 19:55:11]: [FINE] LoxzS logged in 181.203.68.215
+[08-23 20:26:45]: [FINE] LoxzS logged in 181.203.68.215
+[08-23 20:49:33]: [FINE] LoxzS logged in 181.203.68.215
+[08-23 20:54:53]: [FINE] KenshiRyuto logged in 81.61.26.41
+[08-23 21:20:58]: [FINE] hannyabal logged in 190.112.99.50
+[08-23 21:27:45]: [FINE] KenshiRyuto logged in 81.61.26.41
+[08-23 21:31:17]: [FINE] angelisbh logged in 24.129.24.65
+[08-23 21:32:50]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-23 21:38:19]: [FINE] The user lreinhardl has 2 accounts:
+[08-23 21:38:19]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-23 21:38:19]: [FINE] lreinhardl logged in 95.18.244.46
+[08-23 23:07:36]: [FINE] LoxzS logged in 181.203.68.215
+[08-23 23:57:18]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-24 00:14:34]: [FINE] Volthark logged in 45.173.73.101
+[08-24 01:06:54]: [FINE] SirCharlesMcLeod logged in 2.139.20.208
+[08-24 01:30:47]: [FINE] LoxzS logged in 181.203.68.215
+[08-24 01:55:42]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-24 03:54:17]: [FINE] Sigmund_Frank logged in 38.25.17.171
+[08-24 09:13:29]: [FINE] The user lreinhardl has 2 accounts:
+[08-24 09:13:29]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-24 09:13:29]: [FINE] lreinhardl logged in 95.18.244.46
+[08-24 13:01:50]: [FINE] The user lreinhardl has 2 accounts:
+[08-24 13:01:50]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-24 13:01:50]: [FINE] lreinhardl logged in 95.18.244.46
+[08-24 13:11:53]: [FINE] Yexpick logged in 190.206.82.85
+[08-24 13:25:48]: [FINE] The user MintList152070 has 2 accounts:
+[08-24 13:25:48]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-24 13:25:48]: [FINE] MintList152070 logged in 95.18.244.46
+[08-24 13:48:37]: [FINE] The user lreinhardl has 2 accounts:
+[08-24 13:48:37]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-24 13:48:37]: [FINE] lreinhardl logged in 95.18.244.46
+[08-24 14:35:14]: [FINE] biccc logged in 187.158.101.9
+[08-24 15:26:06]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-24 15:57:36]: [FINE] Yexpick logged in 190.206.82.85
+[08-24 16:56:34]: [FINE] LoxzS logged in 191.126.140.165
+[08-24 17:06:26]: [FINE] LoxzS logged in 191.126.140.165
+[08-24 18:36:19]: [FINE] biccc used the wrong password
+[08-24 18:37:03]: [FINE] biccc logged in 187.158.101.9
+[08-24 19:07:38]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-24 19:13:10]: [FINE] The user lreinhardl has 2 accounts:
+[08-24 19:13:10]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-24 19:13:10]: [FINE] lreinhardl logged in 95.18.244.46
+[08-24 20:49:26]: [FINE] The user MintList152070 has 2 accounts:
+[08-24 20:49:26]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-24 20:49:26]: [FINE] MintList152070 logged in 95.18.244.46
+[08-24 20:58:24]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-24 22:39:55]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-24 22:48:34]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-24 22:59:06]: [FINE] frerver345 registered 190.236.250.174
+[08-24 22:59:06]: [FINE] frerver345 logged in 190.236.250.174
+[08-24 23:22:37]: [FINE] hannyabal logged in 190.112.99.50
+[08-24 23:55:23]: [FINE] LoxzS logged in 191.125.173.163
+[08-25 02:40:01]: [FINE] Yexpick logged in 200.109.206.175
+[08-25 02:45:04]: [FINE] Yexpick logged in 200.109.206.175
+[08-25 02:59:43]: [FINE] hannyabal logged in 190.112.99.50
+[08-25 03:30:00]: [FINE] Yexpick logged in 200.109.206.175
+[08-25 03:38:08]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 03:43:48]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 03:46:16]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 03:47:36]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 03:49:53]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 03:53:31]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 06:37:34]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 07:25:34]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-25 07:52:31]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 07:55:18]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 07:59:29]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 08:01:44]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 15:09:21]: [FINE] Yexpick logged in 200.109.1.148
+[08-25 16:26:00]: [FINE] Yexpick logged in 200.109.1.148
+[08-25 16:29:45]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 17:21:22]: [FINE] Yexpick logged in 200.109.1.148
+[08-25 18:01:13]: [FINE] RJosehh_ logged in 172.59.208.124
+[08-25 18:09:05]: [FINE] The user MintList152070 has 2 accounts:
+[08-25 18:09:05]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-25 18:09:05]: [FINE] MintList152070 logged in 95.18.244.46
+[08-25 18:14:09]: [FINE] The user lreinhardl has 2 accounts:
+[08-25 18:14:09]: [FINE] §7§alreinhardl§7, §aMintList152070§7.
+[08-25 18:14:09]: [FINE] lreinhardl logged in 95.18.244.46
+[08-25 19:05:18]: [FINE] xXPapoPepoXx registered 38.171.52.194
+[08-25 19:05:18]: [FINE] xXPapoPepoXx logged in 38.171.52.194
+[08-25 20:03:43]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-25 20:45:31]: [FINE] RJosehh_ logged in 172.59.208.124
+[08-25 21:52:47]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 21:57:30]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 22:00:03]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-25 22:02:21]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-25 22:04:33]: [FINE] QuacksTHO logged in 189.217.223.159
+[08-25 22:06:38]: [FINE] QuacksTHO logged in 189.217.223.159
+[08-25 22:10:01]: [FINE] QuacksTHO logged in 189.217.223.159
+[08-25 22:17:56]: [FINE] Pachequo registered 93.156.211.88
+[08-25 22:17:56]: [FINE] Pachequo logged in 93.156.211.88
+[08-25 22:29:23]: [FINE] Pachequo logged in 93.156.211.88
+[08-25 22:42:11]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-26 00:39:04]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 00:48:44]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-26 00:48:54]: [FINE] QuacksTHO logged in 189.217.223.159
+[08-26 01:00:33]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 01:06:06]: [FINE] angelisbh logged in 24.129.24.65
+[08-26 01:13:54]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-26 01:18:18]: [FINE] frerver345 logged in 190.236.250.174
+[08-26 01:30:24]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 01:43:29]: [FINE] alonhouse9yt logged in 189.253.45.98
+[08-26 01:59:03]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-26 02:15:18]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 02:17:27]: [FINE] Urx1r3l logged in 201.141.16.145
+[08-26 02:18:29]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-26 03:26:38]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 03:39:07]: [FINE] hannyabal logged in 190.112.99.50
+[08-26 03:52:22]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 07:13:13]: [FINE] Pachequo logged in 93.156.211.88
+[08-26 09:21:51]: [FINE] The user lreinhardl has 2 accounts:
+[08-26 09:21:51]: [FINE] §7§alreinhardl§7, mintlist152070.
+[08-26 09:21:51]: [FINE] lreinhardl logged in 95.18.244.46
+[08-26 15:38:34]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 15:51:38]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 15:56:49]: [FINE] SirCharlesMcLeod logged in 80.39.206.109
+[08-26 16:10:00]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 16:35:51]: [FINE] The user MintList152070 has 2 accounts:
+[08-26 16:35:51]: [FINE] §7lreinhardl, §aMintList152070§7.
+[08-26 16:35:51]: [FINE] MintList152070 logged in 95.18.244.46
+[08-26 17:02:19]: [FINE] iTzVolpy registered 73.204.146.249
+[08-26 17:02:19]: [FINE] iTzVolpy logged in 73.204.146.249
+[08-26 17:49:00]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 18:00:54]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 18:03:22]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 18:08:00]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 18:15:59]: [FINE] Yexpick logged in 201.210.79.137
+[08-26 20:40:00]: [FINE] Pachequo logged in 93.156.211.88
+[08-27 02:15:47]: [FINE] diegoneitor666 logged in 187.189.173.17
+[08-27 06:00:02]: [FINE] MoonDancer5 logged in 190.236.82.77
+[08-27 06:57:14]: [FINE] Sigmund_Frank logged in 38.25.17.171
+[08-27 11:04:22]: [FINE] Pachequo logged in 93.156.211.88
+[08-27 14:59:17]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-27 20:02:52]: [INFO] SQLite Setup finished
+[08-27 20:02:52]: [INFO] Hooked into LuckPerms!
+[08-27 20:02:52]: [INFO] Hooked successfully into Essentials
+[08-27 20:02:52]: [INFO] Hooked successfully into Multiverse-Core
+[08-27 20:02:52]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-27 20:02:52]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-28 03:55:50]: [FINE] Sigmund_Frank logged in 38.25.17.171
+[08-28 10:31:25]: [FINE] Pachequo logged in 93.156.211.88
+[08-28 13:08:10]: [FINE] EVIL_OVER logged in 181.67.122.17
+[08-28 17:20:55]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-28 17:23:07]: [FINE] Yexpick logged in 190.199.236.180
+[08-28 21:55:51]: [FINE] Urx1r3l logged in 201.141.16.163
+[08-28 23:05:17]: [INFO] SQLite Setup finished
+[08-28 23:05:17]: [INFO] Hooked into LuckPerms!
+[08-28 23:05:17]: [INFO] Hooked successfully into Essentials
+[08-28 23:05:17]: [INFO] Hooked successfully into Multiverse-Core
+[08-28 23:05:17]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-28 23:05:18]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-28 23:06:18]: [FINE] Urx1r3l logged in 201.141.16.163
+[08-29 02:59:47]: [FINE] xFroddx logged in 38.25.17.209
+[08-29 03:06:11]: [FINE] QuacksTHO logged in 189.217.209.206
+[08-29 15:03:17]: [FINE] prodigy14163 logged in 189.180.29.192
+[08-30 10:55:26]: [FINE] SirCharlesMcLeod logged in 80.39.206.109
+[08-30 18:37:09]: [FINE] SirCharlesMcLeod logged in 80.39.206.109
+[08-30 22:15:04]: [FINE] SirCharlesMcLeod logged in 80.39.206.109
+[08-30 22:18:23]: [FINE] SirCharlesMcLeod logged in 80.39.206.109
+[08-31 06:38:20]: [FINE] QuacksTHO logged in 189.217.209.206
+[08-31 11:44:11]: [FINE] SirCharlesMcLeod logged in 80.39.206.109
+[08-31 17:59:17]: [FINE] SirCharlesMcLeod logged in 80.39.206.109
+[08-31 18:40:47]: [FINE] Urx1r3l logged in 201.141.16.163
+[08-31 20:50:54]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[08-31 20:52:37]: [INFO] SQLite Setup finished
+[08-31 20:52:37]: [INFO] Hooked into LuckPerms!
+[08-31 20:52:37]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[08-31 20:52:37]: [INFO] Hooked successfully into Essentials
+[08-31 20:52:37]: [INFO] Hooked successfully into Multiverse-Core
+[08-31 20:52:37]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[08-31 21:28:09]: [FINE] Urx1r3l logged in 201.141.16.163
+[09-01 12:46:28]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 14:23:55]: [INFO] SQLite Setup finished
+[09-01 14:23:55]: [INFO] Hooked into LuckPerms!
+[09-01 14:23:55]: [INFO] Hooked successfully into Essentials
+[09-01 14:23:55]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 14:23:55]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 14:23:55]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 14:30:13]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 14:43:18]: [INFO] SQLite Setup finished
+[09-01 14:43:18]: [INFO] Hooked into LuckPerms!
+[09-01 14:43:18]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 14:43:18]: [INFO] Hooked successfully into Essentials
+[09-01 14:43:18]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 14:43:18]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 14:43:53]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 14:46:26]: [INFO] SQLite Setup finished
+[09-01 14:46:26]: [INFO] Hooked into LuckPerms!
+[09-01 14:46:26]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 14:46:26]: [INFO] Hooked successfully into Essentials
+[09-01 14:46:26]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 14:46:27]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 14:49:26]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 14:50:12]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 14:53:25]: [INFO] SQLite Setup finished
+[09-01 14:53:26]: [INFO] Hooked into LuckPerms!
+[09-01 14:53:26]: [INFO] Hooked successfully into Essentials
+[09-01 14:53:26]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 14:53:26]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 14:53:26]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 14:55:55]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 14:56:17]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 14:57:13]: [INFO] SQLite Setup finished
+[09-01 14:57:13]: [INFO] Hooked into LuckPerms!
+[09-01 14:57:14]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 14:57:14]: [INFO] Hooked successfully into Essentials
+[09-01 14:57:14]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 14:57:14]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 14:58:19]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 14:59:56]: [INFO] SQLite Setup finished
+[09-01 14:59:56]: [INFO] Hooked into LuckPerms!
+[09-01 14:59:56]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 14:59:56]: [INFO] Hooked successfully into Essentials
+[09-01 14:59:56]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 14:59:56]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:00:43]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 15:03:18]: [INFO] SQLite Setup finished
+[09-01 15:03:18]: [INFO] Hooked into LuckPerms!
+[09-01 15:03:18]: [INFO] Hooked successfully into Essentials
+[09-01 15:03:18]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 15:03:19]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 15:03:19]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:04:13]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 15:06:33]: [INFO] SQLite Setup finished
+[09-01 15:06:33]: [INFO] Hooked into LuckPerms!
+[09-01 15:06:33]: [INFO] Hooked successfully into Essentials
+[09-01 15:06:33]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 15:06:33]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 15:06:34]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:07:11]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 15:30:58]: [INFO] SQLite Setup finished
+[09-01 15:30:58]: [INFO] Hooked into LuckPerms!
+[09-01 15:30:59]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 15:30:59]: [INFO] Hooked successfully into Essentials
+[09-01 15:30:59]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 15:30:59]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:31:52]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 15:34:29]: [INFO] SQLite Setup finished
+[09-01 15:34:29]: [INFO] Hooked into LuckPerms!
+[09-01 15:34:29]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 15:34:29]: [INFO] Hooked successfully into Essentials
+[09-01 15:34:29]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 15:34:29]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:35:09]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 15:36:01]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 15:39:01]: [INFO] SQLite Setup finished
+[09-01 15:39:02]: [INFO] Hooked into LuckPerms!
+[09-01 15:39:02]: [INFO] Hooked successfully into Essentials
+[09-01 15:39:02]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 15:39:02]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 15:39:02]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:40:02]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 15:43:29]: [INFO] SQLite Setup finished
+[09-01 15:43:30]: [INFO] Hooked into LuckPerms!
+[09-01 15:43:30]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 15:43:30]: [INFO] Hooked successfully into Essentials
+[09-01 15:43:30]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 15:43:30]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:45:22]: [INFO] SQLite Setup finished
+[09-01 15:45:22]: [INFO] Hooked into LuckPerms!
+[09-01 15:45:22]: [INFO] Hooked successfully into Essentials
+[09-01 15:45:22]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 15:45:22]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 15:45:22]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:46:04]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 15:51:27]: [INFO] SQLite Setup finished
+[09-01 15:51:27]: [INFO] Hooked into LuckPerms!
+[09-01 15:51:27]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 15:51:27]: [INFO] Hooked successfully into Essentials
+[09-01 15:51:27]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 15:51:27]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 15:52:11]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 16:05:09]: [INFO] SQLite Setup finished
+[09-01 16:05:09]: [INFO] Hooked into LuckPerms!
+[09-01 16:05:09]: [INFO] Hooked successfully into Essentials
+[09-01 16:05:09]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 16:05:09]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 16:05:10]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 16:06:35]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 16:48:43]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 17:16:10]: [INFO] SQLite Setup finished
+[09-01 17:16:10]: [INFO] Hooked into LuckPerms!
+[09-01 17:16:10]: [INFO] Hooked successfully into Essentials
+[09-01 17:16:10]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 17:16:10]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 17:16:11]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 17:20:26]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 17:21:08]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 17:25:25]: [INFO] SQLite Setup finished
+[09-01 17:25:25]: [INFO] Hooked into LuckPerms!
+[09-01 17:25:25]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 17:25:25]: [INFO] Hooked successfully into Essentials
+[09-01 17:25:25]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 17:25:26]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 17:26:57]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 17:39:53]: [INFO] SQLite Setup finished
+[09-01 17:39:53]: [INFO] Hooked into LuckPerms!
+[09-01 17:39:53]: [INFO] Hooked successfully into Essentials
+[09-01 17:39:53]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 17:39:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 17:39:54]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 18:30:10]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 18:31:14]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 19:29:48]: [INFO] SQLite Setup finished
+[09-01 19:29:48]: [INFO] Hooked into LuckPerms!
+[09-01 19:29:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 19:29:48]: [INFO] Hooked successfully into Essentials
+[09-01 19:29:48]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 19:29:49]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 19:32:49]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 19:33:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-01 19:37:12]: [INFO] SQLite Setup finished
+[09-01 19:37:13]: [INFO] Hooked into LuckPerms!
+[09-01 19:37:13]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-01 19:37:13]: [INFO] Hooked successfully into Essentials
+[09-01 19:37:13]: [INFO] Hooked successfully into Multiverse-Core
+[09-01 19:37:13]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-01 19:38:34]: [FINE] LanceLucky logged in 190.237.177.200
+[09-01 19:42:06]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-06 01:25:45]: [INFO] SQLite Setup finished
+[09-06 01:25:45]: [INFO] Hooked into LuckPerms!
+[09-06 01:25:45]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-06 01:25:45]: [INFO] Hooked successfully into Essentials
+[09-06 01:25:45]: [INFO] Hooked successfully into Multiverse-Core
+[09-06 01:25:45]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-06 01:26:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-06 01:32:31]: [INFO] SQLite Setup finished
+[09-06 01:32:31]: [INFO] Hooked into LuckPerms!
+[09-06 01:32:31]: [INFO] Hooked successfully into Essentials
+[09-06 01:32:31]: [INFO] Hooked successfully into Multiverse-Core
+[09-06 01:32:31]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-06 01:32:31]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-06 01:33:36]: [FINE] LanceLucky logged in 190.237.177.200
+[09-06 01:36:14]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-06 01:41:18]: [INFO] SQLite Setup finished
+[09-06 01:41:18]: [INFO] Hooked into LuckPerms!
+[09-06 01:41:18]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-06 01:41:18]: [INFO] Hooked successfully into Essentials
+[09-06 01:41:18]: [INFO] Hooked successfully into Multiverse-Core
+[09-06 01:41:18]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-06 22:10:00]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-06 22:12:29]: [INFO] SQLite Setup finished
+[09-06 22:12:30]: [INFO] Hooked into LuckPerms!
+[09-06 22:12:30]: [INFO] Hooked successfully into Essentials
+[09-06 22:12:30]: [INFO] Hooked successfully into Multiverse-Core
+[09-06 22:12:30]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-06 22:12:30]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-07 20:18:42]: [FINE] Urx1r3l logged in 201.141.16.163
+[09-08 01:37:22]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 01:44:14]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 01:45:41]: [INFO] SQLite Setup finished
+[09-08 01:45:41]: [INFO] Hooked into LuckPerms!
+[09-08 01:45:41]: [INFO] Hooked successfully into Essentials
+[09-08 01:45:41]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 01:45:41]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 01:45:41]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 01:46:24]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 02:08:21]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 03:26:13]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 03:29:25]: [INFO] SQLite Setup finished
+[09-08 03:29:25]: [INFO] Hooked into LuckPerms!
+[09-08 03:29:25]: [INFO] Hooked successfully into Essentials
+[09-08 03:29:25]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 03:29:26]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 03:29:26]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 03:30:50]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 03:38:41]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 03:40:19]: [INFO] SQLite Setup finished
+[09-08 03:40:19]: [INFO] Hooked into LuckPerms!
+[09-08 03:40:19]: [INFO] Hooked successfully into Essentials
+[09-08 03:40:19]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 03:40:19]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 03:40:20]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 03:53:54]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 14:01:00]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 14:18:35]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 14:24:49]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 15:24:46]: [INFO] SQLite Setup finished
+[09-08 15:24:46]: [INFO] Hooked into LuckPerms!
+[09-08 15:24:46]: [INFO] Hooked successfully into Essentials
+[09-08 15:24:46]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 15:24:46]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 15:24:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 15:26:22]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 15:40:20]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 15:50:58]: [INFO] SQLite Setup finished
+[09-08 15:50:58]: [INFO] Hooked into LuckPerms!
+[09-08 15:50:58]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 15:50:58]: [INFO] Hooked successfully into Essentials
+[09-08 15:50:58]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 15:50:58]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 15:52:28]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 16:00:45]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 16:06:11]: [INFO] SQLite Setup finished
+[09-08 16:06:11]: [INFO] Hooked into LuckPerms!
+[09-08 16:06:11]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 16:06:11]: [INFO] Hooked successfully into Essentials
+[09-08 16:06:11]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 16:06:12]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 16:09:05]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 16:27:32]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 16:31:42]: [INFO] SQLite Setup finished
+[09-08 16:31:42]: [INFO] Hooked into LuckPerms!
+[09-08 16:31:42]: [INFO] Hooked successfully into Essentials
+[09-08 16:31:42]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 16:31:42]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 16:31:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 16:32:37]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 16:33:04]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 16:34:47]: [INFO] SQLite Setup finished
+[09-08 16:34:47]: [INFO] Hooked into LuckPerms!
+[09-08 16:34:47]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 16:34:47]: [INFO] Hooked successfully into Essentials
+[09-08 16:34:47]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 16:34:47]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 16:36:44]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 21:31:38]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 21:32:36]: [INFO] SQLite Setup finished
+[09-08 21:32:36]: [INFO] Hooked into LuckPerms!
+[09-08 21:32:36]: [INFO] Hooked successfully into Essentials
+[09-08 21:32:36]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 21:32:36]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 21:32:36]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 21:36:29]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 21:37:21]: [INFO] SQLite Setup finished
+[09-08 21:37:21]: [INFO] Hooked into LuckPerms!
+[09-08 21:37:21]: [INFO] Hooked successfully into Essentials
+[09-08 21:37:21]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 21:37:21]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 21:37:21]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 21:37:56]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 21:39:59]: [INFO] SQLite Setup finished
+[09-08 21:39:59]: [INFO] Hooked into LuckPerms!
+[09-08 21:39:59]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 21:39:59]: [INFO] Hooked successfully into Essentials
+[09-08 21:39:59]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 21:39:59]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 21:42:16]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 21:43:41]: [INFO] SQLite Setup finished
+[09-08 21:43:41]: [INFO] Hooked into LuckPerms!
+[09-08 21:43:41]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 21:43:41]: [INFO] Hooked successfully into Essentials
+[09-08 21:43:41]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 21:43:42]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 21:47:10]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-08 21:48:03]: [INFO] SQLite Setup finished
+[09-08 21:48:03]: [INFO] Hooked into LuckPerms!
+[09-08 21:48:03]: [INFO] Hooked successfully into Essentials
+[09-08 21:48:03]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 21:48:03]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 21:48:03]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 22:15:23]: [INFO] SQLite Setup finished
+[09-08 22:15:23]: [INFO] Hooked into LuckPerms!
+[09-08 22:15:24]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-08 22:15:24]: [INFO] Hooked successfully into Essentials
+[09-08 22:15:24]: [INFO] Hooked successfully into Multiverse-Core
+[09-08 22:15:24]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-08 22:19:13]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 22:30:07]: [FINE] LanceLucky logged in 190.237.177.200
+[09-08 22:37:47]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-09 09:28:15]: [INFO] SQLite Setup finished
+[09-09 09:28:15]: [INFO] Hooked into LuckPerms!
+[09-09 09:28:15]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-09 09:28:15]: [INFO] Hooked successfully into Essentials
+[09-09 09:28:15]: [INFO] Hooked successfully into Multiverse-Core
+[09-09 09:28:16]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-09 14:19:05]: [FINE] LanceLucky logged in 190.237.177.200
+[09-09 14:21:23]: [FINE] LanceLucky logged in 190.237.177.200
+[09-09 14:31:42]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-09 19:50:09]: [INFO] SQLite Setup finished
+[09-09 19:50:10]: [INFO] Hooked into LuckPerms!
+[09-09 19:50:10]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-09 19:50:10]: [INFO] Hooked successfully into Essentials
+[09-09 19:50:10]: [INFO] Hooked successfully into Multiverse-Core
+[09-09 19:50:10]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-10 02:19:14]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-10 03:18:38]: [INFO] SQLite Setup finished
+[09-10 03:18:39]: [INFO] Hooked into LuckPerms!
+[09-10 03:18:39]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-10 03:18:39]: [INFO] Hooked successfully into Essentials
+[09-10 03:18:39]: [INFO] Hooked successfully into Multiverse-Core
+[09-10 03:18:39]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-10 03:22:02]: [FINE] LanceLucky logged in 190.237.177.200
+[09-10 03:41:16]: [FINE] LanceLucky logged in 190.237.177.200
+[09-10 04:05:29]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-10 04:13:36]: [INFO] SQLite Setup finished
+[09-10 04:13:36]: [INFO] Hooked into LuckPerms!
+[09-10 04:13:36]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-10 04:13:36]: [INFO] Hooked successfully into Essentials
+[09-10 04:13:36]: [INFO] Hooked successfully into Multiverse-Core
+[09-10 04:13:36]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-10 16:43:37]: [INFO] SQLite Setup finished
+[09-10 16:43:37]: [INFO] Hooked into LuckPerms!
+[09-10 16:43:37]: [INFO] Hooked successfully into Essentials
+[09-10 16:43:37]: [INFO] Hooked successfully into Multiverse-Core
+[09-10 16:43:37]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-10 16:43:37]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-10 16:45:37]: [FINE] LanceLucky logged in 190.237.177.200
+[09-10 16:51:11]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-10 17:27:09]: [INFO] SQLite Setup finished
+[09-10 17:27:09]: [INFO] Hooked into LuckPerms!
+[09-10 17:27:09]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-10 17:27:09]: [INFO] Hooked successfully into Essentials
+[09-10 17:27:09]: [INFO] Hooked successfully into Multiverse-Core
+[09-10 17:27:10]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-10 17:35:28]: [FINE] LanceLucky logged in 190.237.177.200
+[09-10 19:31:58]: [FINE] LanceLucky logged in 190.237.177.200
+[09-10 19:39:09]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-10 19:41:44]: [INFO] SQLite Setup finished
+[09-10 19:41:45]: [INFO] Hooked into LuckPerms!
+[09-10 19:41:45]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-10 19:41:45]: [INFO] Hooked successfully into Essentials
+[09-10 19:41:45]: [INFO] Hooked successfully into Multiverse-Core
+[09-10 19:41:45]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-10 19:45:09]: [FINE] LanceLucky logged in 190.237.177.200
+[09-11 15:02:12]: [FINE] LanceLucky logged in 190.237.177.200
+[09-11 15:34:24]: [INFO] SQLite Setup finished
+[09-11 15:34:24]: [INFO] Hooked into LuckPerms!
+[09-11 15:34:24]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-11 15:34:25]: [INFO] Hooked successfully into Essentials
+[09-11 15:34:25]: [INFO] Hooked successfully into Multiverse-Core
+[09-11 15:34:25]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-11 15:47:47]: [FINE] LanceLucky logged in 190.237.177.200
+[09-11 16:08:20]: [FINE] LanceLucky logged in 190.237.177.200
+[09-11 16:39:05]: [FINE] LanceLucky logged in 190.237.177.200
+[09-11 18:10:11]: [FINE] LanceLucky logged in 190.237.177.200
+[09-11 18:33:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-12 00:21:37]: [INFO] SQLite Setup finished
+[09-12 00:21:37]: [INFO] Hooked into LuckPerms!
+[09-12 00:21:37]: [INFO] Hooked successfully into Essentials
+[09-12 00:21:37]: [INFO] Hooked successfully into Multiverse-Core
+[09-12 00:21:37]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-12 00:21:38]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-12 00:28:32]: [FINE] LanceLucky logged in 190.237.177.200
+[09-12 00:34:31]: [FINE] LanceLucky logged in 190.237.177.200
+[09-12 00:38:29]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-12 00:45:42]: [INFO] SQLite Setup finished
+[09-12 00:45:42]: [INFO] Hooked into LuckPerms!
+[09-12 00:45:42]: [INFO] Hooked successfully into Essentials
+[09-12 00:45:42]: [INFO] Hooked successfully into Multiverse-Core
+[09-12 00:45:42]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-12 00:45:43]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-12 00:49:53]: [FINE] LanceLucky logged in 190.237.177.200
+[09-12 00:56:50]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-12 01:04:48]: [INFO] SQLite Setup finished
+[09-12 01:04:48]: [INFO] Hooked into LuckPerms!
+[09-12 01:04:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-12 01:04:48]: [INFO] Hooked successfully into Essentials
+[09-12 01:04:48]: [INFO] Hooked successfully into Multiverse-Core
+[09-12 01:04:48]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-12 01:08:43]: [FINE] LanceLucky logged in 190.237.177.200
+[09-12 01:14:20]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-12 01:21:48]: [INFO] SQLite Setup finished
+[09-12 01:21:49]: [INFO] Hooked into LuckPerms!
+[09-12 01:21:49]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-12 01:21:49]: [INFO] Hooked successfully into Essentials
+[09-12 01:21:49]: [INFO] Hooked successfully into Multiverse-Core
+[09-12 01:21:49]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-15 21:39:03]: [INFO] SQLite Setup finished
+[09-15 21:39:03]: [INFO] Hooked into LuckPerms!
+[09-15 21:39:04]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-15 21:39:04]: [INFO] Hooked successfully into Essentials
+[09-15 21:39:04]: [INFO] Hooked successfully into Multiverse-Core
+[09-15 21:39:04]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-18 03:20:42]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-18 03:25:20]: [INFO] SQLite Setup finished
+[09-18 03:25:20]: [INFO] Hooked into LuckPerms!
+[09-18 03:25:20]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-18 03:25:20]: [INFO] Hooked successfully into Essentials
+[09-18 03:25:20]: [INFO] Hooked successfully into Multiverse-Core
+[09-18 03:25:20]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-18 03:27:52]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-18 03:30:01]: [INFO] SQLite Setup finished
+[09-18 03:30:01]: [INFO] Hooked into LuckPerms!
+[09-18 03:30:01]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-18 03:30:01]: [INFO] Hooked successfully into Essentials
+[09-18 03:30:01]: [INFO] Hooked successfully into Multiverse-Core
+[09-18 03:30:01]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-18 03:32:16]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-18 03:33:45]: [INFO] SQLite Setup finished
+[09-18 03:33:45]: [INFO] Hooked into LuckPerms!
+[09-18 03:33:46]: [INFO] Hooked successfully into Essentials
+[09-18 03:33:46]: [INFO] Hooked successfully into Multiverse-Core
+[09-18 03:33:46]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-18 03:33:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-18 03:35:45]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-18 03:39:41]: [INFO] SQLite Setup finished
+[09-18 03:39:41]: [INFO] Hooked into LuckPerms!
+[09-18 03:39:41]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-18 03:39:41]: [INFO] Hooked successfully into Essentials
+[09-18 03:39:41]: [INFO] Hooked successfully into Multiverse-Core
+[09-18 03:39:41]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-20 00:53:00]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-20 00:54:04]: [INFO] SQLite Setup finished
+[09-20 00:54:04]: [INFO] Hooked into LuckPerms!
+[09-20 00:54:04]: [INFO] Hooked successfully into Essentials
+[09-20 00:54:04]: [INFO] Hooked successfully into Multiverse-Core
+[09-20 00:54:04]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-20 00:54:05]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-20 09:51:22]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-20 09:52:18]: [INFO] SQLite Setup finished
+[09-20 09:52:19]: [INFO] Hooked into LuckPerms!
+[09-20 09:52:19]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-20 09:52:19]: [INFO] Hooked successfully into Essentials
+[09-20 09:52:19]: [INFO] Hooked successfully into Multiverse-Core
+[09-20 09:52:19]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-20 19:03:34]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-20 20:03:27]: [INFO] SQLite Setup finished
+[09-20 20:03:27]: [INFO] Hooked into LuckPerms!
+[09-20 20:03:27]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-20 20:03:27]: [INFO] Hooked successfully into Essentials
+[09-20 20:03:27]: [INFO] Hooked successfully into Multiverse-Core
+[09-20 20:03:27]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-21 00:49:59]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-21 00:54:10]: [INFO] SQLite Setup finished
+[09-21 00:54:10]: [INFO] Hooked into LuckPerms!
+[09-21 00:54:10]: [INFO] Hooked successfully into Essentials
+[09-21 00:54:10]: [INFO] Hooked successfully into Multiverse-Core
+[09-21 00:54:10]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-21 00:54:10]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-21 01:06:37]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-21 01:08:05]: [INFO] SQLite Setup finished
+[09-21 01:08:05]: [INFO] Hooked into LuckPerms!
+[09-21 01:08:05]: [INFO] Hooked successfully into Essentials
+[09-21 01:08:05]: [INFO] Hooked successfully into Multiverse-Core
+[09-21 01:08:06]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-21 01:08:06]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-21 19:22:49]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-21 19:23:54]: [INFO] SQLite Setup finished
+[09-21 19:23:54]: [INFO] Hooked into LuckPerms!
+[09-21 19:23:54]: [INFO] Hooked successfully into Essentials
+[09-21 19:23:54]: [INFO] Hooked successfully into Multiverse-Core
+[09-21 19:23:55]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-21 19:23:55]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-22 19:30:20]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-22 19:33:46]: [INFO] SQLite Setup finished
+[09-22 19:33:46]: [INFO] Hooked into LuckPerms!
+[09-22 19:33:46]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-22 19:33:46]: [INFO] Hooked successfully into Essentials
+[09-22 19:33:46]: [INFO] Hooked successfully into Multiverse-Core
+[09-22 19:33:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-23 22:59:31]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-23 23:00:24]: [INFO] SQLite Setup finished
+[09-23 23:00:24]: [INFO] Hooked into LuckPerms!
+[09-23 23:00:24]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-23 23:00:24]: [INFO] Hooked successfully into Essentials
+[09-23 23:00:24]: [INFO] Hooked successfully into Multiverse-Core
+[09-23 23:00:24]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-24 13:42:06]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-24 13:43:02]: [INFO] SQLite Setup finished
+[09-24 13:43:02]: [INFO] Hooked into LuckPerms!
+[09-24 13:43:02]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-24 13:43:02]: [INFO] Hooked successfully into Essentials
+[09-24 13:43:02]: [INFO] Hooked successfully into Multiverse-Core
+[09-24 13:43:02]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-24 13:54:46]: [FINE] LanceLucky logged in 190.237.177.200
+[09-25 03:31:28]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-25 03:33:35]: [INFO] SQLite Setup finished
+[09-25 03:33:35]: [INFO] Hooked into LuckPerms!
+[09-25 03:33:36]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-25 03:33:36]: [INFO] Hooked successfully into Essentials
+[09-25 03:33:36]: [INFO] Hooked successfully into Multiverse-Core
+[09-25 03:33:36]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-26 14:41:04]: [FINE] Yexpick logged in 190.203.34.37
+[09-26 16:27:51]: [FINE] angelisbh logged in 24.129.24.65
+[09-26 16:29:26]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-26 16:31:50]: [INFO] SQLite Setup finished
+[09-26 16:31:50]: [INFO] Hooked into LuckPerms!
+[09-26 16:31:51]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-26 16:31:51]: [INFO] Hooked successfully into Essentials
+[09-26 16:31:51]: [INFO] Hooked successfully into Multiverse-Core
+[09-26 16:31:51]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-26 16:33:22]: [FINE] angelisbh logged in 24.129.24.65
+[09-26 16:47:26]: [FINE] Yexpick logged in 190.203.34.37
+[09-26 16:51:50]: [FINE] Yorlan logged in 186.179.68.23
+[09-26 17:43:55]: [FINE] Yexpick logged in 190.203.34.37
+[09-26 17:52:22]: [FINE] LanceLucky logged in 190.237.177.200
+[09-26 17:57:16]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-26 17:59:24]: [INFO] SQLite Setup finished
+[09-26 17:59:24]: [INFO] Hooked into LuckPerms!
+[09-26 17:59:24]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-26 17:59:24]: [INFO] Hooked successfully into Essentials
+[09-26 17:59:24]: [INFO] Hooked successfully into Multiverse-Core
+[09-26 17:59:24]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-26 17:59:59]: [FINE] LanceLucky logged in 190.237.177.200
+[09-26 18:00:04]: [FINE] Yexpick logged in 190.203.34.37
+[09-26 18:01:56]: [FINE] angelisbh logged in 24.129.24.65
+[09-26 18:42:03]: [FINE] Yexpick logged in 190.203.34.37
+[09-27 13:16:12]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-27 13:18:01]: [INFO] SQLite Setup finished
+[09-27 13:18:01]: [INFO] Hooked into LuckPerms!
+[09-27 13:18:01]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-27 13:18:01]: [INFO] Hooked successfully into Essentials
+[09-27 13:18:01]: [INFO] Hooked successfully into Multiverse-Core
+[09-27 13:18:02]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-27 16:17:49]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-27 16:32:27]: [INFO] SQLite Setup finished
+[09-27 16:32:27]: [INFO] Hooked into LuckPerms!
+[09-27 16:32:27]: [INFO] Hooked successfully into Essentials
+[09-27 16:32:27]: [INFO] Hooked successfully into Multiverse-Core
+[09-27 16:32:27]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-27 16:32:28]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-27 19:19:55]: [FINE] Yexpick logged in 190.203.34.37
+[09-27 19:27:53]: [INFO] SQLite Setup finished
+[09-27 19:27:53]: [INFO] Hooked into LuckPerms!
+[09-27 19:27:53]: [INFO] Hooked successfully into Essentials
+[09-27 19:27:53]: [INFO] Hooked successfully into Multiverse-Core
+[09-27 19:27:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-27 19:27:53]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-27 19:35:53]: [INFO] SQLite Setup finished
+[09-27 19:35:53]: [INFO] Hooked into LuckPerms!
+[09-27 19:35:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-27 19:35:53]: [INFO] Hooked successfully into Essentials
+[09-27 19:35:53]: [INFO] Hooked successfully into Multiverse-Core
+[09-27 19:35:53]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-27 20:16:50]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-27 20:21:15]: [INFO] SQLite Setup finished
+[09-27 20:21:15]: [INFO] Hooked into LuckPerms!
+[09-27 20:21:15]: [INFO] Hooked successfully into Essentials
+[09-27 20:21:15]: [INFO] Hooked successfully into Multiverse-Core
+[09-27 20:21:15]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-27 20:21:15]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 14:25:24]: [INFO] SQLite Setup finished
+[09-28 14:25:24]: [INFO] Hooked into LuckPerms!
+[09-28 14:25:24]: [INFO] Hooked successfully into Essentials
+[09-28 14:25:24]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 14:25:25]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 14:25:25]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 14:26:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-28 14:28:43]: [INFO] SQLite Setup finished
+[09-28 14:28:43]: [INFO] Hooked into LuckPerms!
+[09-28 14:28:43]: [INFO] Hooked successfully into Essentials
+[09-28 14:28:43]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 14:28:44]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 14:28:44]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 14:29:26]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-28 14:30:52]: [INFO] SQLite Setup finished
+[09-28 14:30:52]: [INFO] Hooked into LuckPerms!
+[09-28 14:30:53]: [INFO] Hooked successfully into Essentials
+[09-28 14:30:53]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 14:30:53]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 14:30:53]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 14:31:33]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-28 14:33:15]: [INFO] SQLite Setup finished
+[09-28 14:33:15]: [INFO] Hooked into LuckPerms!
+[09-28 14:33:15]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 14:33:16]: [INFO] Hooked successfully into Essentials
+[09-28 14:33:16]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 14:33:16]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 14:34:10]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-28 14:36:10]: [INFO] SQLite Setup finished
+[09-28 14:36:10]: [INFO] Hooked into LuckPerms!
+[09-28 14:36:10]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 14:36:10]: [INFO] Hooked successfully into Essentials
+[09-28 14:36:10]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 14:36:10]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 14:38:37]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-28 14:42:55]: [INFO] SQLite Setup finished
+[09-28 14:42:55]: [INFO] Hooked into LuckPerms!
+[09-28 14:42:55]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 14:42:55]: [INFO] Hooked successfully into Essentials
+[09-28 14:42:55]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 14:42:55]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 14:43:40]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-28 14:46:18]: [INFO] SQLite Setup finished
+[09-28 14:46:18]: [INFO] Hooked into LuckPerms!
+[09-28 14:46:18]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 14:46:18]: [INFO] Hooked successfully into Essentials
+[09-28 14:46:18]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 14:46:18]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 22:02:27]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-28 22:04:23]: [INFO] SQLite Setup finished
+[09-28 22:04:23]: [INFO] Hooked into LuckPerms!
+[09-28 22:04:23]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 22:04:23]: [INFO] Hooked successfully into Essentials
+[09-28 22:04:23]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 22:04:23]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 22:08:06]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-28 22:10:48]: [INFO] SQLite Setup finished
+[09-28 22:10:48]: [INFO] Hooked into LuckPerms!
+[09-28 22:10:48]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-28 22:10:49]: [INFO] Hooked successfully into Essentials
+[09-28 22:10:49]: [INFO] Hooked successfully into Multiverse-Core
+[09-28 22:10:49]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-28 23:04:59]: [FINE] QuacksTHO logged in 189.217.209.206
+[09-29 00:19:12]: [FINE] LanceLucky logged in 190.237.177.200
+[09-29 03:01:56]: [FINE] LanceLucky logged in 190.237.177.200
+[09-29 03:07:52]: [FINE] LanceLucky logged in 190.237.177.200
+[09-29 14:33:05]: [FINE] LanceLucky logged in 190.237.177.200
+[09-29 18:03:08]: [FINE] LanceLucky logged in 190.237.177.200
+[09-29 19:42:03]: [FINE] LanceLucky logged in 190.237.177.200
+[09-29 20:28:34]: [FINE] Urx1r3l logged in 201.141.16.163
+[09-30 03:48:08]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-30 03:50:51]: [INFO] SQLite Setup finished
+[09-30 03:50:51]: [INFO] Hooked into LuckPerms!
+[09-30 03:50:51]: [INFO] Hooked successfully into Essentials
+[09-30 03:50:51]: [INFO] Hooked successfully into Multiverse-Core
+[09-30 03:50:51]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-30 03:50:51]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-30 13:56:46]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-30 13:58:31]: [INFO] SQLite Setup finished
+[09-30 13:58:31]: [INFO] Hooked into LuckPerms!
+[09-30 13:58:31]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-30 13:58:31]: [INFO] Hooked successfully into Essentials
+[09-30 13:58:31]: [INFO] Hooked successfully into Multiverse-Core
+[09-30 13:58:31]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-30 14:05:05]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-30 14:29:23]: [INFO] SQLite Setup finished
+[09-30 14:29:23]: [INFO] Hooked into LuckPerms!
+[09-30 14:29:23]: [INFO] Hooked successfully into Essentials
+[09-30 14:29:23]: [INFO] Hooked successfully into Multiverse-Core
+[09-30 14:29:23]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-30 14:29:23]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[09-30 16:47:52]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[09-30 16:51:26]: [INFO] SQLite Setup finished
+[09-30 16:51:26]: [INFO] Hooked into LuckPerms!
+[09-30 16:51:26]: [INFO] Hooked successfully into Essentials
+[09-30 16:51:26]: [INFO] Hooked successfully into Multiverse-Core
+[09-30 16:51:26]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[09-30 16:51:26]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[10-01 00:09:04]: [FINE] LanceLucky logged in 190.237.177.200
+[10-01 15:52:43]: [FINE] LanceLucky logged in 190.237.177.200
+[10-01 16:21:21]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[10-01 16:22:44]: [INFO] SQLite Setup finished
+[10-01 16:22:44]: [INFO] Hooked into LuckPerms!
+[10-01 16:22:44]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[10-01 16:22:44]: [INFO] Hooked successfully into Essentials
+[10-01 16:22:44]: [INFO] Hooked successfully into Multiverse-Core
+[10-01 16:22:44]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[10-01 16:23:22]: [FINE] LanceLucky logged in 190.237.177.200
+[10-01 16:25:41]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[10-01 16:32:12]: [INFO] SQLite Setup finished
+[10-01 16:32:12]: [INFO] Hooked into LuckPerms!
+[10-01 16:32:12]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[10-01 16:32:12]: [INFO] Hooked successfully into Essentials
+[10-01 16:32:12]: [INFO] Hooked successfully into Multiverse-Core
+[10-01 16:32:13]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[10-01 16:32:42]: [FINE] LanceLucky logged in 190.237.177.200
+[10-01 17:02:52]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[03-21 00:45:51]: [INFO] SQLite Setup finished
+[03-21 00:45:52]: [INFO] Hooked into LuckPerms!
+[03-21 00:45:52]: [INFO] Hooked successfully into Essentials
+[03-21 00:45:52]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 00:45:52]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 00:45:52]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 00:45:52]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 00:46:13]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[03-21 00:57:40]: [INFO] SQLite Setup finished
+[03-21 00:57:40]: [INFO] Hooked into LuckPerms!
+[03-21 00:57:40]: [INFO] Hooked successfully into Essentials
+[03-21 00:57:40]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 00:57:40]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 00:57:41]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 00:57:41]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 04:40:33]: [INFO] SQLite Setup finished
+[03-21 04:40:33]: [INFO] Hooked into LuckPerms!
+[03-21 04:40:33]: [INFO] Hooked successfully into Essentials
+[03-21 04:40:33]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 04:40:33]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 04:40:33]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 04:40:34]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 04:50:44]: [FINE] LanceLucky logged in 127.43.45.154
+[03-21 04:51:10]: [FINE] LanceLucky logged in 127.43.45.154
+[03-21 04:53:16]: [FINE] Z_Aqp_Yt registered 127.230.55.146
+[03-21 04:53:16]: [FINE] Z_Aqp_Yt logged in 127.230.55.146
+[03-21 04:54:36]: [FINE] Z_Aqp_Yt logged in 127.230.55.146
+[03-21 04:57:25]: [FINE] TarroedBears registered 127.136.16.111
+[03-21 04:57:25]: [FINE] TarroedBears logged in 127.136.16.111
+[03-21 04:59:40]: [FINE] LanceLucky logged in 127.43.45.154
+[03-21 04:59:58]: [FINE] Z_Aqp_Yt logged in 127.230.55.146
+[03-21 05:02:27]: [FINE] TarroedBears logged in 127.136.16.111
+[03-21 05:02:36]: [FINE] Z_Aqp_Yt logged in 127.230.55.146
+[03-21 05:03:58]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[03-21 05:05:49]: [INFO] SQLite Setup finished
+[03-21 05:05:49]: [INFO] Hooked into LuckPerms!
+[03-21 05:05:50]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 05:05:50]: [INFO] Hooked successfully into Essentials
+[03-21 05:05:50]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 05:05:50]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 05:05:50]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 05:06:53]: [FINE] Z_Aqp_Yt logged in 127.230.55.146
+[03-21 05:06:54]: [FINE] LanceLucky logged in 127.43.45.154
+[03-21 05:07:51]: [FINE] TarroedBears logged in 127.136.16.111
+[03-21 13:56:35]: [INFO] SQLite Setup finished
+[03-21 13:56:35]: [INFO] Hooked into LuckPerms!
+[03-21 13:56:35]: [INFO] Hooked successfully into Essentials
+[03-21 13:56:35]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 13:56:35]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 13:56:35]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 13:56:35]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 13:57:05]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[03-21 13:59:20]: [INFO] SQLite Setup finished
+[03-21 13:59:20]: [INFO] Hooked into LuckPerms!
+[03-21 13:59:20]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 13:59:21]: [INFO] Hooked successfully into Essentials
+[03-21 13:59:21]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 13:59:21]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 13:59:21]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 13:59:41]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[03-21 14:02:28]: [INFO] SQLite Setup finished
+[03-21 14:02:28]: [INFO] Hooked into LuckPerms!
+[03-21 14:02:29]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 14:02:29]: [INFO] Hooked successfully into Essentials
+[03-21 14:02:29]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 14:02:29]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 14:02:29]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 17:57:45]: [INFO] SQLite Setup finished
+[03-21 17:57:45]: [INFO] Hooked into LuckPerms!
+[03-21 17:57:46]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 17:57:46]: [INFO] Hooked successfully into Essentials
+[03-21 17:57:46]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 17:57:46]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 17:57:46]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 18:00:10]: [FINE] LanceLucky logged in 127.43.45.154
+[03-21 18:00:36]: [FINE] LanceLucky logged in 127.43.45.154
+[03-21 18:02:50]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[03-21 18:13:40]: [INFO] SQLite Setup finished
+[03-21 18:13:40]: [INFO] Hooked into LuckPerms!
+[03-21 18:13:41]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 18:13:41]: [INFO] Hooked successfully into Essentials
+[03-21 18:13:41]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 18:13:41]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 18:13:41]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 18:13:55]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!
+[03-21 18:18:50]: [INFO] SQLite Setup finished
+[03-21 18:18:50]: [INFO] Hooked into LuckPerms!
+[03-21 18:18:50]: [INFO] Hooked successfully into Essentials
+[03-21 18:18:50]: [INFO] Hooked successfully into Multiverse-Core
+[03-21 18:18:50]: [INFO] Essentials spawn file not found: '/workspaces/reimagined-octo-doodle/servidor_minecraft/plugins/Essentials/spawn.yml'
+[03-21 18:18:51]: [INFO] [LICENSE] This product includes GeoLite2 data created by MaxMind, available at https://www.maxmind.com
+[03-21 18:18:51]: [INFO] AuthMe 5.6.0 build n.CUSTOM successfully enabled!
+[03-21 18:19:01]: [INFO] AuthMe 5.6.0-bCUSTOM disabled!

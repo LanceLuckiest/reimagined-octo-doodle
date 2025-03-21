@@ -1,0 +1,11 @@
+name: admin
+permissions:
+  - skinsrestorer.admincommand.*
+  - essentials.sethome.multiple.staff
+parents:
+  - asistente
+  - default
+  - moderador
+prefixes:
+  - "&7&l[&6&k||&4&oAdmin&6&k||&7&l]&r":
+      priority: 0

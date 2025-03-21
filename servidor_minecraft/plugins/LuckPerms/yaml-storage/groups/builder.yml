@@ -1,0 +1,12 @@
+name: builder
+permissions:
+- worldedit.*
+- worldguard.*
+- conditionalevents.chat
+- essentials.enderchest
+- essentials.sethome.multiple.staff
+parents:
+- default
+prefixes:
+- '&7&l[&6&k||&6&oBuilder&6&k||&7&l]&r':
+    priority: 0

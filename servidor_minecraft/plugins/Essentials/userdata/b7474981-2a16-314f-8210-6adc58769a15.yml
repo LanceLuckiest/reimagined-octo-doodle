@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.43.45.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742535098142
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742580170071
+  login: 1742580036294
+money: '0'
+last-account-name: LanceLucky
+lastlocation:
+  world: 2c92c48e-7af8-4e9a-b627-b538e2c73845
+  world-name: world
+  x: 263.403678071634
+  y: 96.0
+  z: -110.61302439245875
+  yaw: -167.519287109375
+  pitch: 5.518052577972412
+logoutlocation:
+  world: 3910e550-801a-4abe-8b12-88c35c3fac92
+  world-name: world
+  x: 330.6422952540499
+  y: 67.86859856141189
+  z: 1367.9754769299147
+  yaw: -4.199877738952637
+  pitch: 6.600386619567871

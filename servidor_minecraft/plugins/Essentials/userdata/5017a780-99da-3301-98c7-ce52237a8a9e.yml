@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.136.16.111
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742536228561
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742536340191
+  login: 1742533671189
+money: '0'
+last-account-name: TarroedBears
+lastlocation:
+  world: 2c92c48e-7af8-4e9a-b627-b538e2c73845
+  world-name: world
+  x: -16968.43104156566
+  y: 204.0425525702813
+  z: 6020.944807578563
+  yaw: -130.45062255859375
+  pitch: 57.89972686767578
+logoutlocation:
+  world: 2c92c48e-7af8-4e9a-b627-b538e2c73845
+  world-name: world
+  x: -16932.96245392398
+  y: 203.65671878662621
+  z: 6081.076333028418
+  yaw: -175.1537322998047
+  pitch: 6.750046253204346

@@ -1,0 +1,44 @@
+name: helper
+permissions:
+- ab.notify.*
+- ab.undoNotify.*
+- essentials.seen.*
+- ab.check
+- ab.kick.use
+- ab.mute.perma
+- ab.mute.temp
+- ab.mute.undo
+- ab.warn.perma
+- ab.warn.temp
+- ab.warn.undo
+- conditionalevents.chat
+- essentials.enderchest
+- essentials.fly
+- essentials.seen
+- essentials.sethome.multiple.staff
+- essentials.tp
+- staff.alerts.mention
+- staff.compass
+- staff.cps
+- staff.examine
+- staff.follow
+- staff.freeze
+- staff.member
+- staff.mode
+- staff.random-teleport
+- staff.staffchat
+- staff.staffplus
+- staff.tp
+- staff.vanish.list
+- staff.vanish.total
+- staff.warn
+- sv.list
+- sv.login
+- sv.logout
+- sv.see
+- sv.use
+parents:
+- default
+prefixes:
+- '&7&l[&6&k||&a&oHelper&6&k||&7&l]&r':
+    priority: 0

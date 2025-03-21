@@ -1,0 +1,4 @@
+# LuckPerms UUID lookup cache
+b7474981-2a16-314f-8210-6adc58769a15:LanceLucky
+00356c4d-a8eb-39c1-bfbd-b181115e3d4b:Z_Aqp_Yt
+5017a780-99da-3301-98c7-ce52237a8a9e:TarroedBears

@@ -1,0 +1,59 @@
+# OfflineManager 3.1.2
+# Created by quazar, LOVEC3327
+# Contact https://vk.com/flawesv or https://t.me/squazar
+# Configuration file
+
+# Set true if you want to enable only api. Commands will be disabled
+only-api: false
+
+# When the player is removed from cache, it will write about it to the console
+remove-from-cache-notification: false
+
+placeholders: true
+
+# Tab-complete by players
+player-complete: true
+# Tab-complete by plugin commands
+command-complete: true
+# Async player profiles storage loading
+async-storage-init: false
+# Prints error to console if plugin can't read file
+file-err-log: true
+
+# Cache configuration
+# This cache stores the data of recently used players
+cache:
+  # Maximum cache size
+  # Set 0 if you want unlimited cache
+  size: 50
+
+offline-inventory:
+  enabled: true
+  interact: true
+  name: "OfflineInventory"
+offline-enderchest:
+  enabled: true
+  interact: true
+  name: "OfflineEnderchest"
+offline-armor:
+  enabled: true
+  interact: true
+  name: "OfflineArmor"
+
+# Commands configuration
+change-gamemode:
+  enabled: true
+teleportation:
+  enabled: true
+edit-location:
+  enabled: true
+kill-player:
+  enabled: true
+  clear-items: true
+  drop-items: true
+clear-inventory:
+  enabled: true
+heal-player:
+  enabled: true
+feed-player:
+  enabled: true

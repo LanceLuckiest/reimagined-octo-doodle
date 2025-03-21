@@ -1,0 +1,14 @@
+name: owner
+permissions:
+  - mv.bypass.gamemode.*
+  - mv.bypass.playerlimit.*
+  - worldguard.*
+  - essentials.ban.exempt
+  - essentials.chat.ignoreexempt
+  - essentials.kick.exempt
+  - essentials.mute.exempt
+  - essentials.tempban.exempt
+  - protectionstones.admin
+prefixes:
+  - "&7&l[&6&k||&c&oOwner&6&k||&7&l]&r":
+      priority: 0
