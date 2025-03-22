@@ -376,13 +376,13 @@
 
 	[features.satyr_camp]
 		#Range: 0 ~ 1000
-		chance = 3
+		chance = 1
 		whitelist = false
 		biome_types = ["NETHER", "END", "WATER", "COLD", "SNOWY", "MUSHROOM"]
 
 	[features.ara_camp]
 		#Range: 0 ~ 1000
-		chance = 3
+		chance = 1
 		whitelist = false
 		biome_types = ["NETHER", "END", "WATER", "COLD", "SNOWY", "MUSHROOM"]
 
@@ -424,7 +424,7 @@
 
 	[features.arachne_pit]
 		#Range: 0 ~ 1000
-		chance = 1
+		chance = 0
 		whitelist = false
 		biome_types = ["NETHER", "END", "WATER", "COLD", "SNOWY", "MUSHROOM"]
 

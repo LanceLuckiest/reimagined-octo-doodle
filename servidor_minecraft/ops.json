@@ -1,25 +1,13 @@
 [
   {
-    "uuid": "5017a780-99da-3301-98c7-ce52237a8a9e",
-    "name": "TarroedBears",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "b7474981-2a16-314f-8210-6adc58769a15",
     "name": "LanceLucky",
     "level": 4,
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "00356c4d-a8eb-39c1-bfbd-b181115e3d4b",
-    "name": "Z_Aqp_Yt",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
-    "uuid": "bab2e149-3940-4ef3-9e54-c1b4f5c6d48b",
-    "name": "LanceLucky",
+    "uuid": "d503cbd1-d83d-3656-a683-5c4c5847ad8f",
+    "name": "MOMO",
     "level": 4,
     "bypassesPlayerLimit": false
   }

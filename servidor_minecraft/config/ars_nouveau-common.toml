@@ -41,7 +41,7 @@
 	defenderHuntsAnimals = false
 	#Archwood forest spawn weight
 	#Range: > 0
-	archwoodForest = 0
+	archwoodForest = 3
 	#Crystallizer output item. Do not use a wrong ID!
 	crystallizer_output = "ars_nouveau:mana_gem"
 

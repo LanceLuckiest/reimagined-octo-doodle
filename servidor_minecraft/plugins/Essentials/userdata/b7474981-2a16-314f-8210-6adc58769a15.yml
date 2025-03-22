@@ -11,28 +11,20 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1742535098142
+  lastteleport: 0
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1742580170071
-  login: 1742580036294
+  logout: 1742592010303
+  login: 1742591879407
 money: '0'
 last-account-name: LanceLucky
-lastlocation:
-  world: 2c92c48e-7af8-4e9a-b627-b538e2c73845
-  world-name: world
-  x: 263.403678071634
-  y: 96.0
-  z: -110.61302439245875
-  yaw: -167.519287109375
-  pitch: 5.518052577972412
 logoutlocation:
-  world: 3910e550-801a-4abe-8b12-88c35c3fac92
+  world: 5035d418-bedb-4d47-ace3-f17ebf23a1d4
   world-name: world
-  x: 330.6422952540499
-  y: 67.86859856141189
-  z: 1367.9754769299147
-  yaw: -4.199877738952637
-  pitch: 6.600386619567871
+  x: -21.4865058310223
+  y: 70.0
+  z: 42.345418509543045
+  yaw: -276.0030517578125
+  pitch: 28.79996109008789
