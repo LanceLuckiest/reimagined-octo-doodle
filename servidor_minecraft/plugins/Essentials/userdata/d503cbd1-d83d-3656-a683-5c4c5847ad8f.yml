@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1742617432883
+  logout: 1742618298787
   login: 1742617441377
 money: '0'
 last-account-name: MOMO
 logoutlocation:
-  world: de30b928-c40c-47fe-be0c-0769ee9f44f0
-  world-name: world
-  x: -33.0
-  y: 63.0
-  z: 87.0
-  yaw: 0.0
-  pitch: 0.0
+  world: b14195e9-8cbd-4412-879c-777099320fa3
+  world-name: world/DIM1
+  x: -1418.8857372657706
+  y: 99.10717233922462
+  z: -1127.9941965573717
+  yaw: -66.15216064453125
+  pitch: 18.749744415283203
+lastlocation:
+  world: b14195e9-8cbd-4412-879c-777099320fa3
+  world-name: world/DIM1
+  x: -3.06338814524074
+  y: 76.0
+  z: 8.792384915407265
+  yaw: 131.85153198242188
+  pitch: 2.100043296813965

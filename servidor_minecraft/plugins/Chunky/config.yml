@@ -5,3 +5,13 @@ language: en
 continue-on-restart: false
 silent: false
 update-interval: 1
+tasks:
+  world:
+    cancelled: false
+    radius: 1.0E7
+    x-center: 0.0
+    z-center: 0.0
+    iterator: concentric
+    shape: square
+    count: 19251
+    time: 1010941
